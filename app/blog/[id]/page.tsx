@@ -14,13 +14,14 @@ import Blockquote from "@/app/ui/blog/blockquote";
 import Table from "@/app/ui/blog/table";
 import Pre from "@/app/ui/blog/pre";
 import H2 from "@/app/ui/blog/h2";
+import path from "path";
 
 type Props = {
   params: { id: string }
 }
 
 const getBlog = cache(async (id: string) => {
-  const file = await fs.readFile(process.cwd() + '/public/data/blog.json', 'utf8');
+  const file = await fs.readFile(path.join(process.cwd(), '/data/blog.json'), 'utf8');
   const data = JSON.parse(file);
   if (data && data[id]) {
     return data[id];
