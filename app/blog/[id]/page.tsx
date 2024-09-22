@@ -40,11 +40,36 @@ export async function generateMetadata(
   return {
     title: blog?.title ? blog?.title : '404 - Not Found',
     description: blog?.description ? blog?.description : 'This page is not available',
+    applicationName: 'Informative Blog Website',
+    authors: [{name: 'Dhaval Patel', url: 'https://github.com/dhavalpatelgithub'}],
+    generator: 'Next.js',
+    keywords: ["react", "server components"],
+    referrer: 'origin',
+    creator: "Dhaval Patel",
+    publisher: "Dhaval Patel",
+    // robots: null,
+    // alternates: null,
+    // icons: null,
+    // manifest: null,
     openGraph: {
       title: blog?.title ? blog?.title : '404 - Not Found',
       images: blog?.images ? blog?.images : [],
       description: blog?.description ? blog?.description : 'This page is not available',
+      countryName: "India",
+      url: `https://blogger-jet.vercel.app/blog/${id}`,
+      type: 'article',
+      publishedTime: "September 22, 2024",
+      modifiedTime: "September 22, 2024"
     },
+    twitter: {
+      title: blog?.title ? blog?.title : '404 - Not Found',
+      images: blog?.images ? blog?.images : [],
+      description: blog?.description ? blog?.description : 'This page is not available',
+      creator: '@creator',
+      card: "summary_large_image",
+      site: "@site"
+    },
+    appleWebApp: true
   }
 }
 
