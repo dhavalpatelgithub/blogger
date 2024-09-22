@@ -77,6 +77,7 @@ export async function generateMetadata(
 export default async function Page({ params }: Props) {
   const id: string = params.id
   const blog = await getBlog(id);
+
   return (
     <>
       <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900 antialiased">
