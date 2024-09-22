@@ -20,7 +20,7 @@ type Props = {
 }
 
 const getBlog = cache(async (id: string) => {
-  const file = await fs.readFile(process.cwd() + '/app/data/blog.json', 'utf8');
+  const file = await fs.readFile(process.cwd() + '/public/data/blog.json', 'utf8');
   const data = JSON.parse(file);
   if (data && data[id]) {
     return data[id];
@@ -56,22 +56,22 @@ export default async function Page({ params }: Props) {
       <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900 antialiased">
         <div className="flex justify-between px-4 mx-auto max-w-screen-xl ">
           <article className="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
-            { blog?.structure?.map((item: any) => {
+            { blog?.structure?.map((item: any, index: number) => {
               switch(item.contentType) {
 
-                case "header":   return <Header content={item} />;
-                case "p":   return <P content={item} />;
-                case "figure":   return <Figure content={item} />;
-                case "h2":   return <H2 content={item} />;
-                case "h3":   return <H3 content={item} />;
-                case "h4":   return <H4 content={item} />;
-                case "ol":   return <Ol content={item} />;
-                case "ul":   return <Ul content={item} />;
-                case "img":   return <Img content={item} />;
-                case "blockquote":   return <Blockquote content={item} />;
-                case "code":   return <code>{ item?.content }</code>;
-                case "table":   return <Table content={item} />;
-                case "pre":   return <Pre content={item} />;
+                case "header":   return <Header key={index} content={item} />;
+                case "p":   return <P key={index} content={item} />;
+                case "figure":   return <Figure key={index} content={item} />;
+                case "h2":   return <H2 key={index} content={item} />;
+                case "h3":   return <H3 key={index} content={item} />;
+                case "h4":   return <H4 key={index} content={item} />;
+                case "ol":   return <Ol key={index} content={item} />;
+                case "ul":   return <Ul key={index} content={item} />;
+                case "img":   return <Img key={index} content={item} />;
+                case "blockquote":   return <Blockquote key={index} content={item} />;
+                case "code":   return <code key={index}>{ item?.content }</code>;
+                case "table":   return <Table key={index} content={item} />;
+                case "pre":   return <Pre key={index} content={item} />;
         
                 default:      return <></>
               }
@@ -483,7 +483,7 @@ export default async function Page({ params }: Props) {
             Related articles
           </h2>
           <div className="grid gap-12 sm:grid-cols-2 lg:grid-cols-4">
-            <article className="max-w-xs">
+            <article key="article" className="max-w-xs">
               <a href="#">
                 <Image
                   width={500}
