@@ -17,11 +17,11 @@ import H2 from "@/app/ui/blog/h2";
 import path from "path";
 
 type Props = {
-  params: { id: string }
+  params: { id: string, lang: string }
 }
 
-const getBlog = cache(async (id: string) => {
-  const file = await fs.readFile(path.join(process.cwd(), '/data/blog.json'), 'utf8');
+const getBlog = cache(async (id: string, lang: string) => {
+  const file = await fs.readFile(path.join(process.cwd(), `/data/blog_${lang}.json`), 'utf8');
   const data = JSON.parse(file);
   if (data && data[id]) {
     return data[id];
@@ -34,8 +34,10 @@ export async function generateMetadata(
   { params }: Props,
   // parent: ResolvingMetadata
 ): Promise<Metadata> {
-  const id: string = params.id
-  const blog = await getBlog(id);
+  debugger;
+  const id: string = params.id;
+  const lang: string = params.lang ? params.lang : 'en';
+  const blog = await getBlog(id, lang);
  
   return {
     title: blog?.title ? blog?.title : '404 - Not Found',
@@ -75,8 +77,9 @@ export async function generateMetadata(
 
 
 export default async function Page({ params }: Props) {
-  const id: string = params.id
-  const blog = await getBlog(id);
+  const id: string = params.id;
+  const lang: string = params.lang ? params.lang : 'en';
+  const blog = await getBlog(id, lang);
 
   return (
     <>
