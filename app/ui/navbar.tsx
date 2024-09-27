@@ -5,7 +5,6 @@ import Link from 'next/link';
 import { useState } from 'react';
 import ThemeToggle from './theme-toggle';
 import { useParams, usePathname } from 'next/navigation';
-import { Props } from '../model/common-model';
 
 export default function Navbar() {
 
