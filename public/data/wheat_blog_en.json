@@ -1,0 +1,252 @@
+{
+    "title": "Blog imbriqué JSON",
+    "description": "Blog imbriqué JSON descriptif",
+    "images": ["https://food.unl.edu/newsletters/images/mise-en-plase.jpg", "https://domf5oio6qrcr.cloudfront.net/medialibrary/11537/4a78f148-d427-4209-8173-f33d04c44106.jpg"],
+    "structure": [
+        {
+            "contentType": "p",
+            "content": "Wheat is one of the most important and widely cultivated cereal grains globally, playing a key role in human nutrition and agriculture. It belongs to the genus Triticum and is grown in a variety of climates, primarily in temperate regions. Wheat is a staple food in many parts of the world and is the main ingredient in a range of foods, including bread, pasta, noodles, and pastries."
+        },
+        {
+            "contentType": "figure",
+            "src": "/images/blog/wheat_blog.jpeg",
+            "caption": "Digital art by Anonymous"
+        },
+        {
+            "contentType": "h1",
+            "content": "Types of Wheat"
+        },
+        {
+            "contentType": "p",
+            "content": "Wheat comes in several varieties, each suited to different uses and growing conditions:"
+        }, {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Hard Wheat:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " This type has a higher protein content and is ideal for making bread due to its strong gluten content."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Soft Wheat:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " This variety is lower in protein and used for products like cakes, pastries, and crackers."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Durum Wheat:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " High in gluten and used mainly for pasta and semolina."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Spring Wheat:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Planted in the spring and harvested in late summer or early fall."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Winter Wheat:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Planted in the fall and harvested the following summer, it has a longer growing period and is typically more productive."
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "contentType": "h2",
+            "content": "Nutritional Content"
+        },
+        {
+            "contentType": "p",
+            "content": "Wheat is rich in carbohydrates, particularly starch, making it an excellent source of energy. It also contains proteins, fiber, vitamins (especially B vitamins like niacin and thiamine), and minerals like iron, magnesium, and zinc. Whole wheat retains more nutrients compared to refined wheat, which loses many of the bran and germ components during processing."
+        }, {
+            "contentType": "h2",
+            "content": "Wheat in Global Agriculture"
+        },
+        {
+            "contentType": "p",
+            "content": "Wheat is grown on more land area worldwide than any other food crop and is a major commodity in international trade. The largest producers of wheat include:"
+        }, {
+            "contentType": "ul",
+            "list": [
+                {
+                    "content": "China"
+                }, {
+                    "content": "India"
+                }, {
+                    "content": "Russia"
+                }, {
+                    "content": "United States"
+                }, {
+                    "content": "France"
+                }
+            ]
+        }, {
+            "contentType": "p",
+            "content": "Wheat is central to global food security, as it is a major source of calories for populations around the world."
+        }, {
+            "contentType": "h2",
+            "content": "Environmental Considerations"
+        },
+        {
+            "contentType": "p",
+            "content": "Wheat is relatively adaptable to different environments but can be sensitive to drought and extreme temperatures. Modern farming practices have focused on developing drought-resistant and disease-resistant varieties. However, climate change poses challenges to wheat production, particularly in regions where temperatures are rising or rainfall patterns are changing."
+        }, {
+            "contentType": "h2",
+            "content": "Historical Significance"
+        },
+        {
+            "contentType": "p",
+            "content": "Wheat has been cultivated for over 10,000 years and was one of the first crops to be domesticated by humans. It played a crucial role in the development of ancient civilizations, including those in Mesopotamia, Egypt, and the Indus Valley, providing a reliable food source and contributing to the rise of settled communities."
+        }, {
+            "contentType": "h2",
+            "content": "Modern Uses and Economic Impact"
+        },
+        {
+            "contentType": "p",
+            "content": "Beyond its use in food, wheat is also used in the production of alcohol (like beer and whiskey), animal feed, and various industrial products. The wheat industry supports millions of jobs globally, from farming and processing to transportation and retail."
+        }, {
+            "contentType": "h2",
+            "content": "Benefits of Wheat"
+        }, {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Nutritional Value:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Wheat is a rich source of carbohydrates, which provide energy. Whole wheat, in particular, contains essential nutrients like fiber, protein, B vitamins (especially niacin, thiamine, and folate), and minerals such as iron, magnesium, and zinc. This makes it a highly nutritious part of the diet when consumed in whole form."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Dietary Fiber:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Whole wheat is high in dietary fiber, which supports digestive health by promoting regular bowel movements, reducing constipation, and lowering the risk of colon cancer. Fiber also helps in maintaining healthy cholesterol levels and may aid in weight management by promoting a feeling of fullness."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Versatility in Food:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Wheat is extremely versatile and used in a wide variety of food products, from bread, pasta, and cereals to pastries, cakes, and more. It is a staple in many diets around the world, making it easy to integrate into everyday meals."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Global Food Security:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Wheat is a key staple food that helps ensure food security for billions of people around the world. Its relatively high yield and adaptability to different climates make it a critical crop in feeding the global population."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Economic Importance:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " The wheat industry provides millions of jobs globally, from farming and harvesting to processing, transportation, and retail. It is a major agricultural commodity and a critical part of international trade."
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "contentType": "h2",
+            "content": "Drawbacks of Wheat"
+        }, {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Gluten Sensitivity and Celiac Disease:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Wheat contains gluten, a protein that can cause health problems for individuals with celiac disease or non-celiac gluten sensitivity. For these people, consuming wheat can lead to digestive issues, inflammation, and damage to the small intestine, requiring them to avoid wheat-based products."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Refined Wheat and Health Issues:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Refined wheat products (like white bread and pasta) are stripped of fiber, vitamins, and minerals, leaving mostly simple carbohydrates. Excessive consumption of refined wheat can contribute to weight gain, blood sugar spikes, and an increased risk of type 2 diabetes, cardiovascular disease, and other chronic health problems."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Environmental Impact:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Large-scale wheat farming can have negative environmental effects, including soil depletion, water overuse, and pesticide usage. Conventional wheat production may contribute to deforestation and the loss of biodiversity in some regions."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Pesticide Residues:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Pesticides and herbicides used in conventional wheat farming may leave residues on the crops, which can be harmful to human health if consumed in large amounts over time. These chemicals can also contaminate soil and water, affecting the environment."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Monoculture and Crop Diversity:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " The widespread monoculture of wheat can reduce agricultural biodiversity and make crops more vulnerable to diseases and pests. This reliance on a single crop can create instability in food systems if there is a major crop failure due to climate change, pests, or disease outbreaks."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "p",
+            "content": "In summary, wheat is a highly beneficial and essential crop due to its nutritional value, versatility, and role in food security. However, issues such as gluten sensitivity, the health impacts of refined wheat, and environmental concerns highlight the need for responsible consumption and sustainable farming practices."
+        }
+    ]
+}
