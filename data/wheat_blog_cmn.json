@@ -1,7 +1,7 @@
 {
     "title": "小麦：地球上最重要的谷物",
     "description": "小麦是一种谷物，属于禾本科植物，生长于世界各地的温带地区",
-    "images": ["/images/blog/wheat_blog.jpeg"],
+    "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"],
     "structure": [
         {
             "contentType": "header",
@@ -20,7 +20,7 @@
         },
         {
             "contentType": "figure",
-            "src": "/images/blog/wheat_blog.jpeg",
+            "src": "https://i.ibb.co/8bvJRmw/wheat-blog.jpg",
             "caption": "匿名数字艺术"
         },
         {
@@ -266,25 +266,25 @@
             "lang": "gu",
             "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
             "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
-            "images": ["/images/blog/wheat_blog.jpeg"]
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
         }, {
             "id": "wheat_blog",
             "lang": "hi",
             "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
             "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
-            "images": ["/images/blog/wheat_blog.jpeg"]
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
         }, {
             "id": "wheat_blog",
             "lang": "fr",
             "title": "Blé : la céréale la plus importante de la planète",
             "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
-            "images": ["/images/blog/wheat_blog.jpeg"]
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
         }, {
             "id": "wheat_blog",
             "lang": "es",
             "title": "Trigo: el cereal más importante del planeta",
             "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
-            "images": ["/images/blog/wheat_blog.jpeg"]
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
         }
     ]
 }
