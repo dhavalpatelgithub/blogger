@@ -1,0 +1,426 @@
+{
+    "title": "Ragi (Finger Millet): The Nutritious Grain",
+    "description": "This article discusses the health benefits of corn, including its fiber, vitamins, minerals, and antioxidants.",
+    "images": ["https://i.ibb.co/YpjYdPq/ragi.webp"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "Ragi (Finger Millet): The Nutritious Grain",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "Farmer, educator & CEO Pop Food Industry",
+                "updatedDate": "Feb. 8, 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "Ragi, also known as finger millet, is a highly nutritious grain that has been a staple food in many parts of Africa and India. It is particularly valued for its high nutritional content and adaptability to various climatic conditions."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/YpjYdPq/ragi.webp",
+            "caption": "Digital art by Anonymous"
+        },
+        {
+            "contentType": "h2",
+            "content": "Nutritional Benefits"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Calcium:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi is an excellent source of calcium, making it beneficial for bone health."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Iron:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " It helps combat anemia and supports overall health."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Fiber:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " High fiber content aids digestion and helps in maintaining a healthy weight."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Protein:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contains essential amino acids, making it a good source of plant-based protein."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Low Glycemic Index:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi has a low glycemic index, making it suitable for diabetics as it helps manage blood sugar levels."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Gluten-Free:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " It is naturally gluten-free, making it a safe choice for people with celiac disease or gluten sensitivity."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Antioxidants:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contains antioxidants that help fight free radicals and may reduce the risk of chronic diseases."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Health Benefits"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Weight Management:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " High fiber content promotes a feeling of fullness, which can aid in weight control."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Heart Health:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " The presence of antioxidants and fiber can contribute to better heart health."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bone Health:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Rich in calcium and phosphorus, ragi supports strong bones and teeth."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Digestive Health:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " The fiber in ragi aids in proper digestion and regular bowel movements."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Culinary Uses"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Flour:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi flour is used to make various dishes like roti, idli, dosa, and porridge."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Beverages:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi can be prepared as a nutritious drink, often mixed with milk or yogurt."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Snacks:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi can be used to make energy bars, cookies, and other snacks."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Cultivation"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Climate:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi is resilient and can be grown in dry regions with minimal rainfall. It thrives in poor soil conditions."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sowing and Harvesting:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " It is typically sown at the beginning of the monsoon season and harvested in 3 to 4 months."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Pest Resistance:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi is relatively resistant to pests and diseases, making it a sustainable crop."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h1",
+            "content": "History of Ragi (Finger Millet)"
+        },
+        {
+            "contentType": "h2",
+            "content": "Ancient Origins"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Domestication:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi (Eleusine coracana) is believed to have been domesticated in Africa around 5,000 years ago. Evidence suggests that it was cultivated in the highlands of Ethiopia and other parts of East Africa."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Spread to India:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi made its way to India approximately 2,000 years ago, where it became a staple food, particularly in the southern and western regions."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Cultural Significance"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Traditional Diet:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " In India, ragi has been a part of the traditional diet, especially among rural populations. It is often used in various forms, such as flour for making flatbreads (roti) and porridge."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Folklore and Festivals:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi is deeply embedded in the cultural practices of many communities. It is often associated with various festivals and rituals."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Agricultural Practices"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Traditional Farming:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi is typically grown using traditional farming methods. Its resilience to drought and poor soil conditions made it a reliable crop for farmers in arid regions."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Crop Rotation:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Farmers often practice crop rotation with ragi to enhance soil fertility and combat pests."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Modern Era"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Nutritional Awareness:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " In recent years, there has been a resurgence of interest in ragi due to its high nutritional value, particularly in the context of health and wellness."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Research and Promotion:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Agricultural research institutes have been promoting ragi cultivation, emphasizing its benefits for food security and sustainable agriculture."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Global Recognition"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Health Foods:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi has gained recognition beyond India, becoming popular in health food markets worldwide due to its gluten-free nature and health benefits."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "International Cultivation:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Today, ragi is cultivated in several countries, including Kenya, Tanzania, and Nepal, where it continues to be valued as a staple food."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Conclusion"
+        },
+        {
+            "contentType": "p",
+            "content": "Ragi is a versatile and highly nutritious grain that offers numerous health benefits. Its adaptability to various climates and conditions makes it a vital crop for food security, particularly in regions facing drought or poor soil quality. Incorporating ragi into the diet can enhance overall health and well-being."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

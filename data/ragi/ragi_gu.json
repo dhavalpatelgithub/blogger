@@ -1,0 +1,426 @@
+{
+    "title": "રાગી (ફિંગર મિલેટ): પોષણકારક ધાન",
+    "description": "આ લેખમાં રાગીના આરોગ્ય લાભો વિશે ચર્ચા કરવામાં આવી છે, જેમાં તેના ફાઇબર, વિટામિન્સ, ખનિજો અને એન્ટી ઑક્સીડેન્ટ્સનો સમાવેશ થાય છે.",
+    "images": ["https://i.ibb.co/YpjYdPq/ragi.webp"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "રાગી (ફિંગર મિલેટ): પોષણકારક ધાન",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "જેસે લિયોસ",
+                "authorDesignation": "ખેતીદાર, શિક્ષક અને પોપ ફૂડ ઇન્ડસ્ટ્રીના સીઈઓ",
+                "updatedDate": "8 ફેબ્રુઆરી 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "રાગી, જેને ફિંગર મિલેટ તરીકે પણ ઓળખવામાં આવે છે, તે એક અત્યંત પોષણકારક ધાન છે જે કઈંક વિસ્તારમાં આફ્રિકા અને ભારતનું આધારભૂત આહાર બન્યું છે. તેની ઉચ્ચ પોષણની સામગ્રી અને વિવિધ વાતાવરણના પરિસ્થિતિઓમાં અનુકૂળતાને કારણે તેને ખાસ મૂલ્ય અપાયું છે."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/YpjYdPq/ragi.webp",
+            "caption": "ડિજિટલ કલા દ્વારા અનામત"
+        },
+        {
+            "contentType": "h2",
+            "content": "પોષણલાબ્ધો"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "કેલ્સિયમ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગી કેલ્સિયમનો અતિશય સ્રોત છે, જે હાડકાના આરોગ્ય માટે લાભદાયી છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "આયર્ન:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " આ એનોમિયા સામે લડવામાં મદદ કરે છે અને સમગ્ર આરોગ્યનું સમર્થન કરે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ફાઇબર:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " ઉંચી ફાઇબરની સામગ્રી પાચનમાં મદદ કરે છે અને સ્વસ્થ વજન જાળવવામાં મદદ કરે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પ્રોટીન:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " તે આવશ્યક અમિનો એસિડ ધરાવે છે, જે વાનસ્પતિક આધારિત પ્રોટીનનો સારી સ્રોત બનાવે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ઘટક જૈવિક ઈન્ડેક્સ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગીનું ઘટક જૈવિક ઈન્ડેક્સ ઓછું છે, જે તે ડાયાબિટિક્સ માટે યોગ્ય બનાવે છે કેમ કે તે બ્લડ શુગરના સ્તરોને વ્યવસ્થિત કરવામાં મદદ કરે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ગ્લૂટન-ફ્રી:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " તે સ્વાભાવિક રીતે ગ્લૂટન-ફ્રી છે, જે સેલીયેક બીમારી અથવા ગ્લૂટન સંવેદનશીલતા ધરાવતી વ્યક્તિઓ માટે સલામત પસંદગી બનાવે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "એન્ટી ઑક્સીડેન્ટ્સ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " તે એન્ટી ઑક્સીડેન્ટ્સ ધરાવે છે જે મુક્ત રેડિકલ્સ સામે લડવામાં મદદ કરે છે અને ક્રોનિક બીમારીઓના જોખમને ઘટાડે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "આરોગ્ય લાભો"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વજન વ્યવસ્થાપન:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " ઉંચી ફાઇબરની સામગ્રી સંતોષની લાગણીને પ્રોત્સાહન આપે છે, જે વજનના નિયંત્રણમાં મદદ કરે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "હૃદયનું આરોગ્ય:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " એન્ટી ઑક્સીડેન્ટ્સ અને ફાઇબરની ઉપસ્થિતિ વધુ સારું હૃદયનું આરોગ્ય પ્રદાન કરે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "હાડકાંનું આરોગ્ય:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " કેલ્સિયમ અને ફોસ્ફરસમાં સમૃદ્ધ, રાગી મજબૂત હાડકાં અને દાંતને સમર્થન આપે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પાચનનું આરોગ્ય:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગીનું ફાઇબર યોગ્ય પાચન અને નિયમિત બાઉલ મૂવિમેન્ટ્સમાં મદદ કરે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "રસોડામાં ઉપયોગ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "આટા:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગીનું આટા વિવિધ જથ્થાઓમાં રોટી, ઇડલી, ડોસા અને ખીચડી બનાવવા માટે વપરાય છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પાણીય પીણાં:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગીને એક પોષણકારક પીણાં તરીકે તૈયાર કરવામાં આવે છે, જે ઘણીવાર દૂધ અથવા દહીં સાથે મિશ્રિત કરવામાં આવે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "સ્નાક્સ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગીને ઊર્જા બાર, બિસ્કીટ અને અન્ય સ્નાક્સ બનાવવા માટે વપરાઈ શકે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "કૃષિ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "જાતિનો આબેહુબ :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગી ટકાઉ છે અને ઓછી પવનવાળામાં પણ ઉગાડવામાં આવે છે. તે ખરાબ જમીન શરતોમાં વધે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "સેમી અને રેટવાનો સમય:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " સામાન્ય રીતે તે મોનસૂનમાં ઉગાડવામાં આવે છે અને 3 થી 4 મહિના પછી રેટાય છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "રસાયણોની સામે સામર્થ્ય:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગી રાસાયણો અને બીમારીઓ સામે મુકાબલો કરવામાં نسبتا ટકાઉ છે, જે તેને એક ટકાઉ પાક બનાવે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h1",
+            "content": "રાગીના ઇતિહાસ (ફિંગર મિલેટ)"
+        },
+        {
+            "contentType": "h2",
+            "content": "પ્રાચીન ઉદભવ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ઘરે ઉગાડવું:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગી (એલિયુસિન કોરાકાના) આશરે 5000 વર્ષ પહેલા આફ્રિકામાં ઘરેલુ કરવામાં આવ્યું હતું. પુરાવા સૂચવે છે કે તે ઇથિયોપીયાના ઊંચા વિસ્તારમાં અને પૂર્વ આફ્રિકાના અન્ય ભાગોમાં ઉગાડવામાં આવતું હતું."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ભારત સુધીનું ફેલાવું:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગી લગભગ 2000 વર્ષ પહેલા ભારત પહોંચ્યું, જ્યાં તે ખાસ કરીને દક્ષિણ અને પશ્ચિમ પ્રદેશોમાં આધારભૂત આહાર બની ગયું."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "સંસ્કૃતિનું મહત્વ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પરંપરાગત આહાર:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " ભારતમાં, રાગી પરંપરાગત આહારમાંનો એક ભાગ છે, ખાસ કરીને ગ્રામ્ય જનસંખ્યામાં. તે ઘણી વખત વિવિધ સ્વરૂપોમાં વપરાય છે, જેમ કે રોટી અને ખીચડી બનાવવા માટેના આટામાં."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ગ્રંથ અને ઉત્સવ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગી ઘણા સમુદાયોની સાંસ્કૃતિક પ્રથાઓમાં ઊંડે પ્રવેશી ગયું છે. તે ઘણી વખત વિવિધ ઉત્સવો અને સમારંભો સાથે જોડાયેલ હોય છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "કૃષિ પ્રથા"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પરંપરાગત ખેતી:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગી સામાન્ય રીતે પરંપરાગત ખેતીની પદ્ધતિઓથી ઉગાડવામાં આવે છે. તેની સુકાય અને ખરાબ જમીન પરિસ્થિતિઓના માટેની ટકાઉપણું તેને શૂષ્ક પ્રદેશોમાં ખેડૂતોએ માટે વિશ્વસનીય પાક બનાવે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પાકની ફેરફાર:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " ખેડૂતોએ વધુ પાકો માટે જમીનની ઉ fertil અનલવતા વધારવા માટે રાગીને ફેરફાર કરવાની કસોટી કરતા હોય છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "આધુનિક યુગ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પોષણ જાગૃતિ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " છેલ્લા કેટલાક વર્ષોમાં, આરોગ્ય અને કલ્યાણના સંદર્ભમાં, રાગીની ઉચ્ચ પોષણ કિંમતને કારણે રાગી પર રસનું પુનર્જાગરણ થયું છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "શોધ અને પ્રમોશન:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " કૃષિ સંશોધન સંસ્થાઓ રાગીની ખેતીને પ્રમોટ કરી રહી છે, આહારની સુરક્ષા અને ટકાઉ કૃષિના લાભોને રજૂ કરે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "અંતરરાષ્ટ્રીય માન્યતા"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "આરોગ્યના ખોરાક:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " રાગીએ ભારત બહાર માન્યતા મેળવી છે, વિશ્વભરમાં આરોગ્યના ખોરાકના બજારોમાં લોકપ્રિય બની રહ્યું છે તેની ગ્લૂટન-ફ્રી કુદરત અને આરોગ્યના લાભો બદલ."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "આંતરરાષ્ટ્રીય ખેતી:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " આજકાલ, રાગી અનેક દેશોમાં, જેમાં કેન્યા, તાંઝાનિયા અને નેપાલનો સમાવેશ થાય છે,那里 આહારનું આધારભૂત આહાર માનવામાં આવે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "નિષ્કર્ષ"
+        },
+        {
+            "contentType": "p",
+            "content": "રાગી એક બાહ્ય રૂપે ઉપયોગી અને અત્યંત પોષણકારક ધાન છે જે અનેક આરોગ્ય લાભો પ્રદાન કરે છે. વિવિધ આબોહવા અને પરિસ્થિતિઓમાં તેની અનુકૂળતા તેને આહારની સુરક્ષા માટે મહત્વપૂર્ણ પાક બનાવે છે, ખાસ કરીને સુકાણ અથવા ખરાબ જમીનની ગુણવત્તાના મુદ્દાઓનો સામનો કરવાં પડે ત્યારે. રાગીને આહારમાં સામેલ કરવાથી આરોગ્ય અને સમર્પણ વધારી શકાય છે."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

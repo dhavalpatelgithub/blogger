@@ -1,0 +1,426 @@
+{
+    "title": "Ragi (Mijo de dedo): El grano nutritivo",
+    "description": "Este artículo discute los beneficios para la salud del ragi, incluidos su fibra, vitaminas, minerales y antioxidantes.",
+    "images": ["https://i.ibb.co/YpjYdPq/ragi.webp"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "Ragi (Mijo de dedo): El grano nutritivo",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "Agricultor, educador y CEO de Pop Food Industry",
+                "updatedDate": "8 de febrero de 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "Ragi, también conocido como mijo de dedo, es un grano altamente nutritivo que ha sido un alimento básico en muchas partes de África e India. Se valora particularmente por su alto contenido nutricional y su adaptabilidad a diversas condiciones climáticas."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/YpjYdPq/ragi.webp",
+            "caption": "Arte digital por Anónimo"
+        },
+        {
+            "contentType": "h2",
+            "content": "Beneficios Nutricionales"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Calcio:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi es una excelente fuente de calcio, lo que lo hace beneficioso para la salud ósea."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Hierro:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ayuda a combatir la anemia y apoya la salud en general."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Fibra:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Su alto contenido de fibra ayuda a la digestión y contribuye a mantener un peso saludable."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Proteína:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contiene aminoácidos esenciales, lo que lo convierte en una buena fuente de proteína vegetal."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajo Índice Glucémico:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ragi tiene un bajo índice glucémico, lo que lo hace adecuado para diabéticos al ayudar a gestionar los niveles de azúcar en sangre."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sin Gluten:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Es naturalmente libre de gluten, lo que lo convierte en una opción segura para personas con enfermedad celíaca o sensibilidad al gluten."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Antioxidantes:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contiene antioxidantes que ayudan a combatir los radicales libres y pueden reducir el riesgo de enfermedades crónicas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Beneficios para la Salud"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Control de Peso:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El alto contenido de fibra promueve una sensación de saciedad, lo que puede ayudar en el control del peso."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Salud Cardiaca:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " La presencia de antioxidantes y fibra puede contribuir a una mejor salud del corazón."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Salud Ósea:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Rico en calcio y fósforo, el ragi apoya huesos y dientes fuertes."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Salud Digestiva:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " La fibra en el ragi ayuda en una adecuada digestión y movimientos intestinales regulares."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Usos Culinarios"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Harina:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " La harina de ragi se utiliza para hacer varios platos como roti, idli, dosa y gachas."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bebidas:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El ragi puede prepararse como una bebida nutritiva, a menudo mezclada con leche o yogur."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Snacks:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El ragi puede utilizarse para hacer barras energéticas, galletas y otros snacks."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Cultivo"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Clima:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El ragi es resistente y puede crecer en regiones secas con poca lluvia. Prosperan en condiciones de suelo pobre."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Siembra y Cosecha:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Se siembra típicamente al inicio de la temporada de monzones y se cosecha en 3 a 4 meses."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Resistencia a Plagas:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El ragi es relativamente resistente a plagas y enfermedades, lo que lo convierte en un cultivo sostenible."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h1",
+            "content": "Historia del Ragi (Mijo de dedo)"
+        },
+        {
+            "contentType": "h2",
+            "content": "Orígenes Antiguos"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Domesticación:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Se cree que el ragi (Eleusine coracana) fue domesticado en África hace unos 5,000 años. La evidencia sugiere que se cultivaba en las tierras altas de Etiopía y otras partes de África Oriental."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Expansión a India:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El ragi llegó a India aproximadamente hace 2,000 años, donde se convirtió en un alimento básico, especialmente en las regiones del sur y oeste."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Significado Cultural"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Dieta Tradicional:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " En India, el ragi ha sido parte de la dieta tradicional, especialmente entre las poblaciones rurales. Se utiliza a menudo en varias formas, como harina para hacer panes planos (roti) y gachas."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Folclore y Festivales:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El ragi está profundamente arraigado en las prácticas culturales de muchas comunidades. A menudo se asocia con varios festivales y rituales."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Prácticas Agrícolas"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Agricultura Tradicional:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El ragi se cultiva típicamente utilizando métodos de agricultura tradicionales. Su resistencia a la sequía y a las condiciones de suelo pobre lo convierte en un cultivo fiable para los agricultores en regiones áridas."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Rotación de Cultivos:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Los agricultores a menudo practican la rotación de cultivos con ragi para mejorar la fertilidad del suelo y combatir plagas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Era Moderna"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Conciencia Nutricional:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " En los últimos años, ha habido un resurgimiento del interés por el ragi debido a su alto valor nutricional, especialmente en el contexto de la salud y el bienestar."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Investigación y Promoción:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Los institutos de investigación agrícola han estado promoviendo el cultivo de ragi, enfatizando sus beneficios para la seguridad alimentaria y la agricultura sostenible."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Reconocimiento Global"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Alimentos Saludables:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El ragi ha ganado reconocimiento más allá de India, volviéndose popular en los mercados de alimentos saludables de todo el mundo debido a su naturaleza libre de gluten y beneficios para la salud."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Cultivo Internacional:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Hoy en día, el ragi se cultiva en varios países, incluidos Kenia, Tanzania y Nepal, donde continúa siendo valorado como un alimento básico."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Conclusión"
+        },
+        {
+            "contentType": "p",
+            "content": "El ragi es un grano versátil y altamente nutritivo que ofrece numerosos beneficios para la salud. Su adaptabilidad a diversos climas y condiciones lo convierte en un cultivo vital para la seguridad alimentaria, especialmente en regiones que enfrentan sequías o mala calidad del suelo. Incorporar ragi en la dieta puede mejorar la salud y el bienestar en general."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

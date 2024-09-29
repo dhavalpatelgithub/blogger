@@ -1,0 +1,426 @@
+{
+    "title": "小米（指尖小米）：营养丰富的谷物",
+    "description": "本文讨论了小米的健康益处，包括其纤维、维生素、矿物质和抗氧化剂。",
+    "images": ["https://i.ibb.co/YpjYdPq/ragi.webp"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "小米（指尖小米）：营养丰富的谷物",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "杰斯·莱奥斯",
+                "authorDesignation": "农民、教育者和波普食品行业首席执行官",
+                "updatedDate": "2022年2月8日"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "小米，又称指尖小米，是一种营养丰富的谷物，已成为非洲和印度许多地区的主食。由于其高营养含量和对各种气候条件的适应性，它被特别重视。"
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/YpjYdPq/ragi.webp",
+            "caption": "匿名数字艺术"
+        },
+        {
+            "contentType": "h2",
+            "content": "营养益处"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "钙:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米是钙的优质来源，有利于骨骼健康。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "铁:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 它有助于对抗贫血，支持整体健康。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "纤维:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 高纤维含量有助于消化，并有助于维持健康的体重。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "蛋白质:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 含有必需氨基酸，是植物性蛋白质的良好来源。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "低血糖指数:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米的血糖指数低，适合糖尿病患者，有助于控制血糖水平。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "无麸质:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 它是天然无麸质的，适合患有乳糜泻或麸质敏感的人。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "抗氧化剂:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 含有抗氧化剂，有助于抵抗自由基，可能降低慢性疾病的风险。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "健康益处"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "体重管理:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 高纤维含量促进饱腹感，有助于体重控制。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "心脏健康:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 抗氧化剂和纤维的存在有助于改善心脏健康。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "骨骼健康:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 富含钙和磷，小米支持强健的骨骼和牙齿。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "消化健康:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米中的纤维有助于正常消化和规律的排便。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "烹饪用途"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "面粉:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米面粉用于制作各种菜肴，如饼、蒸米糕、薄饼和粥。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "饮料:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米可以制成营养饮料，通常与牛奶或酸奶混合。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "小吃:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米可用于制作能量棒、饼干和其他小吃。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "种植"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "气候:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米耐旱，可以在降雨量少的干燥地区种植。它在贫瘠土壤条件下生长良好。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "播种与收获:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 通常在季风季节开始时播种，3到4个月后收获。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "抗虫害:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米对虫害和疾病的抵抗力较强，使其成为一种可持续的作物。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h1",
+            "content": "小米的历史（指尖小米）"
+        },
+        {
+            "contentType": "h2",
+            "content": "古老的起源"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "驯化:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米（埃鲁西尼科拉卡纳）被认为在大约5000年前在非洲驯化。证据表明，它是在埃塞俄比亚高原及其他东非地区种植的。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "传播到印度:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米大约在2000年前传播到印度，成为南部和西部地区的主食。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "文化意义"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "传统饮食:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 在印度，小米一直是传统饮食的一部分，特别是在农村地区。它常用于多种形式，如制作扁面包（饼）和粥。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "民间传说和节日:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米在许多社区的文化实践中有着深厚的根基。它通常与各种节日和仪式相关联。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "农业实践"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "传统农业:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米通常使用传统的农业方法种植。它耐干旱和贫瘠土壤条件，使其成为干旱地区农民的可靠作物。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "轮作:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 农民通常与小米进行轮作，以提高土壤肥力和抵抗虫害。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "现代时代"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "营养意识:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 最近几年，由于其高营养价值，尤其是在健康和保健方面，小米受到重新关注。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "研究与推广:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 农业研究机构正在推广小米的种植，强调其对食品安全和可持续农业的益处。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "全球认可"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "健康食品:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 小米在印度以外获得认可，由于其无麸质特性和健康益处，已在全球健康食品市场中流行。"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "国际种植:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " 如今，小米在多个国家种植，包括肯尼亚、坦桑尼亚和尼泊尔，在那里它仍然被视为主食。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "结论"
+        },
+        {
+            "contentType": "p",
+            "content": "小米是一种多用途且营养丰富的谷物，提供众多健康益处。它对各种气候和条件的适应性使其成为食品安全的重要作物，特别是在面临干旱或土壤质量差的地区。将小米纳入饮食可以改善整体健康和福祉。"
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

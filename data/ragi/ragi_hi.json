@@ -1,0 +1,426 @@
+{
+    "title": "रागी (फिंगर मिलेट): पौष्टिक अनाज",
+    "description": "इस लेख में रागी के स्वास्थ्य लाभों पर चर्चा की गई है, जिसमें इसके फाइबर, विटामिन, खनिज और एंटीऑक्सीडेंट्स शामिल हैं।",
+    "images": ["https://i.ibb.co/YpjYdPq/ragi.webp"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "रागी (फिंगर मिलेट): पौष्टिक अनाज",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "जेस लियोज",
+                "authorDesignation": "किसान, शिक्षक और पॉप फूड इंडस्ट्री के सीईओ",
+                "updatedDate": "8 फरवरी 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "रागी, जिसे फिंगर मिलेट के नाम से भी जाना जाता है, एक अत्यधिक पौष्टिक अनाज है जो कुछ क्षेत्रों में अफ्रीका और भारत का आधारभूत आहार बन गया है। इसकी उच्च पोषण सामग्री और विभिन्न जलवायु स्थितियों में अनुकूलता के कारण इसे विशेष महत्व दिया गया है।"
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/YpjYdPq/ragi.webp",
+            "caption": "डिजिटल कला द्वारा अनाम"
+        },
+        {
+            "contentType": "h2",
+            "content": "पोषण लाभ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "कैल्शियम:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी कैल्शियम का अत्यधिक स्रोत है, जो हड्डियों के स्वास्थ्य के लिए लाभकारी है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "आयरन:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " यह एनीमिया से लड़ने में मदद करता है और समग्र स्वास्थ्य को समर्थन देता है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "फाइबर:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " उच्च फाइबर सामग्री पाचन में मदद करती है और स्वस्थ वजन बनाए रखने में सहायता करती है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "प्रोटीन:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " इसमें आवश्यक अमीनो एसिड होते हैं, जो इसे पौधों पर आधारित प्रोटीन का अच्छा स्रोत बनाते हैं।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ग्लाइसेमिक इंडेक्स:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी का ग्लाइसेमिक इंडेक्स कम है, जिससे यह डायबिटिक लोगों के लिए उपयुक्त है क्योंकि यह रक्त शर्करा के स्तर को नियंत्रित करने में मदद करता है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ग्लूटेन-फ्री:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " यह स्वाभाविक रूप से ग्लूटेन-फ्री है, जो इसे सीलियाक रोग या ग्लूटेन संवेदनशीलता वाले व्यक्तियों के लिए सुरक्षित विकल्प बनाता है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "एंटीऑक्सीडेंट्स:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " इसमें एंटीऑक्सीडेंट्स होते हैं जो मुक्त कणों से लड़ने में मदद करते हैं और क्रॉनिक बीमारियों के जोखिम को कम करते हैं।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "स्वास्थ्य लाभ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "वजन प्रबंधन:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " उच्च फाइबर सामग्री संतोष की भावना को बढ़ावा देती है, जो वजन नियंत्रण में मदद करती है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "हृदय स्वास्थ्य:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " एंटीऑक्सीडेंट्स और फाइबर की उपस्थिति बेहतर हृदय स्वास्थ्य को बढ़ावा देती है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "हड्डियों का स्वास्थ्य:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " कैल्शियम और फास्फोरस में समृद्ध, रागी मजबूत हड्डियों और दांतों का समर्थन करता है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पाचन स्वास्थ्य:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी का फाइबर उचित पाचन और नियमित बाउल मूवमेंट्स में मदद करता है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "रसोई में उपयोग"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "आटा:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी का आटा विभिन्न रूपों में रोटी, इडली, डोसा और खिचड़ी बनाने के लिए उपयोग किया जाता है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पेय:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी को एक पौष्टिक पेय के रूप में तैयार किया जाता है, जो अक्सर दूध या दही के साथ मिलाया जाता है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "नाश्ते:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी को ऊर्जा बार, बिस्कुट और अन्य नाश्तों के बनाने में इस्तेमाल किया जा सकता है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "कृषि"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "जाति की विशेषताएँ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी टिकाऊ है और कम वर्षा में भी उगाई जा सकती है। यह खराब मिट्टी की परिस्थितियों में भी बढ़ती है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "बीजाई और कटाई का समय:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " सामान्यतः इसे मानसून में उगाया जाता है और 3 से 4 महीनों में काटा जाता है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "कीटनाशकों के प्रति सहनशीलता:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी कीटनाशकों और बीमारियों के खिलाफ अपेक्षाकृत सहनशील है, जो इसे एक टिकाऊ फसल बनाता है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h1",
+            "content": "रागी का इतिहास (फिंगर मिलेट)"
+        },
+        {
+            "contentType": "h2",
+            "content": "प्राचीन उत्पत्ति"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "घरेलू खेती:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी (एलियूसिन कोराकाना) लगभग 5000 साल पहले अफ्रीका में घरेलू किया गया था। सबूत बताते हैं कि इसे इथियोपिया के ऊंचे क्षेत्रों और पूर्वी अफ्रीका के अन्य हिस्सों में उगाया जाता था।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "भारत में प्रसार:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी लगभग 2000 साल पहले भारत पहुँचा, जहाँ यह विशेष रूप से दक्षिण और पश्चिमी क्षेत्रों में एक आधारभूत आहार बन गया।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "संस्कृति का महत्व"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पारंपरिक भोजन:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " भारत में, रागी पारंपरिक आहार का एक हिस्सा है, विशेष रूप से ग्रामीण जनसंख्या में। इसका उपयोग अक्सर विभिन्न रूपों में किया जाता है, जैसे रोटी और खिचड़ी बनाने में।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "संस्कृति और उत्सव:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी कई समुदायों की सांस्कृतिक प्रथाओं में गहराई से समाहित है। यह अक्सर विभिन्न उत्सवों और समारोहों के साथ जुड़ा होता है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "कृषि प्रथा"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पारंपरिक खेती:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी आमतौर पर पारंपरिक कृषि विधियों से उगाई जाती है। इसकी सूखा सहिष्णुता और खराब मिट्टी की परिस्थितियों के प्रति अनुकूलता इसे सूखे क्षेत्रों में किसानों के लिए एक विश्वसनीय फसल बनाती है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "फसल रोटेशन:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " किसान अधिक फसलों के लिए मिट्टी की उर्वरता बढ़ाने के लिए रागी का फसल रोटेशन करते हैं।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "आधुनिक युग"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पोषण जागरूकता:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " पिछले कुछ वर्षों में, स्वास्थ्य और कल्याण के संदर्भ में, रागी की उच्च पोषण मूल्य के कारण रागी पर रुचि का पुनर्जागरण हुआ है।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "अनुसंधान और प्रचार:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " कृषि अनुसंधान संस्थान रागी की खेती को बढ़ावा दे रहे हैं, खाद्य सुरक्षा और टिकाऊ कृषि के लाभों को उजागर कर रहे हैं।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "अंतरराष्ट्रीय मान्यता"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "स्वास्थ्य खाद्य:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " रागी ने भारत के बाहर मान्यता प्राप्त की है, और यह विश्वभर में स्वास्थ्य खाद्य बाजारों में लोकप्रिय हो रहा है इसके ग्लूटेन-फ्री गुण और स्वास्थ्य लाभ के कारण।"
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "अंतरराष्ट्रीय कृषि:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " आजकल, रागी कई देशों में, जैसे कि केन्या, तंजानिया और नेपाल, वहां के मुख्य आहार के रूप में मान्यता प्राप्त कर रहा है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "निष्कर्ष"
+        },
+        {
+            "contentType": "p",
+            "content": "रागी एक बहुपरकारी और अत्यधिक पौष्टिक अनाज है जो कई स्वास्थ्य लाभ प्रदान करता है। विभिन्न जलवायु और परिस्थितियों में इसकी अनुकूलता इसे खाद्य सुरक्षा के लिए एक महत्वपूर्ण फसल बनाती है, विशेष रूप से सूखा या खराब मिट्टी की गुणवत्ता वाले मुद्दों का सामना करते समय। रागी को आहार में शामिल करने से स्वास्थ्य और समर्पण में सुधार किया जा सकता है।"
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}
