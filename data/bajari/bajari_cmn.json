@@ -1,0 +1,342 @@
+{
+    "title": "珍珠粟的本质：信息概述",
+    "description": "珍珠粟（Bajari）是种植最广泛的一种粟类作物。自史前时代以来，它一直在非洲和印度次大陆种植。",
+    "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "珍珠粟的本质：信息概述",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "杰西·莱奥斯",
+                "authorDesignation": "农民、教育家兼Pop Food Industry首席执行官",
+                "updatedDate": "2022年2月8日"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "珍珠粟（Bajari）是珍珠粟的常见名称，也被称为穗状黍（Pennisetum glaucum）。它是一种谷物，广泛种植于干旱和半干旱地区，尤其是在印度和非洲。珍珠粟因其抗旱性和对贫瘠土壤的耐受性而闻名，成为在恶劣生长环境中不可或缺的作物。"
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/JymNRVs/bajari.jpg",
+            "caption": "匿名作者的数字艺术作品"
+        },
+        {
+            "contentType": "h2",
+            "content": "珍珠粟的营养价值"
+        }, 
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "富含营养："
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " 珍珠粟富含纤维、蛋白质和镁、磷、铁和锌等必需矿物质。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "高能量："
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " 它是碳水化合物的良好来源，因其复杂的碳水化合物而提供持续的能量释放。"
+                        }
+                    ]
+                }, 
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "无麸质："
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " 珍珠粟天然不含麸质，是患有乳糜泻或麸质不耐症患者的理想替代品。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "珍珠粟的种类"
+        }, 
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "白珍珠粟："
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " 白色种子；味道温和，易于消化，常用于烙饼（rotis）和粥，更易消化且广泛使用。"
+                        }
+                    ]
+                }, 
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "黄珍珠粟："
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " 黄色种子；富含β-胡萝卜素，与白珍珠粟类似，但营养更丰富，富含抗氧化剂，有益眼部健康。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "灰珍珠粟："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 灰色种子；味道浓郁，常用于干旱地区的传统烙饼，在干旱、贫瘠的土壤条件下生长。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "红珍珠粟："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 红棕色种子；风味独特，常用于传统炖菜和面包，富含抗氧化剂。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "杂交珍珠粟："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 为高产量和抗病性培育，主要用于商业农业和动物饲料，具有更高的生产率和抗旱性。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "黑珍珠粟："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 罕见的黑色种子；味道独特，常用于特定地区的传统菜肴，富含微量营养素和抗氧化剂。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "p",
+            "content": "每种珍珠粟都有其独特的优势，适用于不同的烹饪和农业需求。"
+        },
+        {
+            "contentType": "h2",
+            "content": "珍珠粟的优势"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "抗旱作物："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 珍珠粟在干旱和易受干旱影响的地区生长良好，与稻米和小麦等作物相比，需要的水分更少，使其成为环保可持续的作物。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "营养益处："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 珍珠粟是膳食纤维的丰富来源，有助于维持消化系统健康并减少便秘的风险。它的升糖指数低，意味着它能缓慢提升血糖水平，适合糖尿病患者。珍珠粟还可以预防贫血，尤其是对铁缺乏患者有益。它含有镁和钾，能够帮助降低血压和减少心脏病的风险。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "无麸质："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 对于麸质不耐症患者或遵循无麸质饮食的人来说，珍珠粟是理想的选择。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "体重管理："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 高纤维含量有助于长时间保持饱腹感，进而有助于体重管理。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "骨骼健康："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 珍珠粟富含磷和镁，有助于保持骨骼健康。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "多功能性："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 珍珠粟可以以多种形式使用——如面粉（珍珠粟粉）、粥、烙饼（珍珠粟烙饼）等。它是许多传统印度菜肴中的主食。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "珍珠粟的劣势"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "抗营养因子："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 珍珠粟含有植酸，可能会抑制某些矿物质如铁和锌的吸收。如果在没有适当的制备方法（如浸泡或发酵）的情况下大量食用，可能会减少营养吸收。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "致甲状腺肿效应："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 如果大量食用，珍珠粟含有的化合物可能会干扰甲状腺功能，特别是对于缺碘者。然而，这通常只在长期大量食用且没有平衡饮食时才会成为问题。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "腹胀和消化问题："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 由于其高纤维含量，一些人在食用珍珠粟后可能会出现腹胀或胀气问题。尤其是在突然增加摄入量或没有充分煮熟的情况下，可能更容易出现此类问题。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "保质期："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 与小麦或大米面粉相比，珍珠粟粉的保质期通常较短，因为它的油脂含量较高，如果储存不当，可能会更快变质。"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "在某些菜系中的有限用途："
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " 与小麦或大米不同，珍珠粟可能不适合所有类型的菜肴。一些人可能会发现，由于其独特的味道和质地，很难将其融入日常饮食中。"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "结论"
+        },
+        {
+            "contentType": "p",
+            "content": "珍珠粟是一种富含营养且环保的谷物，尤其适合麸质不耐症患者、糖尿病患者或生活在干旱地区的人。然而，为了避免可能出现的问题，如矿物质吸收障碍或甲状腺功能紊乱，务必将其作为均衡饮食的一部分来食用。"
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "hi",
+            "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
+            "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

@@ -1,0 +1,486 @@
+{
+    "title": "Sorgho : Le Roi des Millets",
+    "description": "Le sorgho est une culture polyvalente qui peut être utilisée comme grain, fourrage ou culture sucrière. Il a de nombreuses utilisations, y compris comme aliment pour les humains, aliment pour les animaux et production d'éthanol.",
+    "images": ["https://i.ibb.co/7K8XQtw/sorghum.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "Sorgho : Le Roi des Millets",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "Agriculteur, éducateur et PDG de Pop Food Industry",
+                "updatedDate": "8 février 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "Le sorgho (Sorghum bicolor) est un grain céréale qui est l'un des aliments de base les plus importants dans de nombreuses régions du monde, en particulier en Afrique et en Asie. Il appartient à la famille des graminées et est connu pour sa résistance dans les climats secs."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/7K8XQtw/sorghum.jpg",
+            "caption": "Art numérique par Anonyme"
+        },
+        {
+            "contentType": "h2",
+            "content": "Caractéristiques"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Types :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Il existe plusieurs types de sorgho, y compris : Sorgho à grain, Sorgho sucré et Sorgho fourrager."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Apparence :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Les plantes de sorgho peuvent atteindre des hauteurs de 3 à 12 pieds et ont des feuilles larges et plates. Les épis de grain peuvent varier en couleur, y compris le blanc, le jaune, le rouge et le violet."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Climat :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Se développe dans des conditions chaudes et sèches, ce qui en fait une excellente culture pour les régions arides. Il est résistant à la sécheresse et peut pousser dans des sols pauvres où d'autres cultures peuvent échouer."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Différents Types de Sorgho"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sorgho à Grain :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Cultivé principalement pour ses graines, utilisées comme aliment et fourrage."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sorgho Sucré :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Cultivé pour ses tiges, qui peuvent être transformées pour produire du sirop."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sorgho Fourrager :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Utilisé comme fourrage pour les animaux."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Valeur Nutritionnelle"
+        },
+        {
+            "contentType": "p",
+            "content": "Le sorgho est hautement nutritif et offre plusieurs avantages pour la santé :"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Glucides :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " C'est une bonne source de glucides complexes."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Protéines :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contient des acides aminés essentiels, ce qui en fait une bonne source de protéines pour les végétariens."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Fibres :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Riche en fibres alimentaires, ce qui aide à la digestion."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Vitamines et Minéraux :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Riche en vitamines B, magnésium, phosphore et fer."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Antioxydants :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contient des composés phénoliques qui peuvent avoir des bienfaits pour la santé."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Utilisations du Sorgho"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Aliment :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Utilisé couramment pour faire des bouillies, du pain et des pancakes. Dans certaines cultures, il est fermenté pour faire des boissons. Sans gluten, ce qui le rend populaire parmi ceux qui ont une sensibilité au gluten."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Aliment pour Animaux :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Une source significative de fourrage pour le bétail."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Utilisations Industrielles :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Utilisé dans la production de biocarburants (éthanol) et dans la fabrication de papier et de matériaux de construction."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Production de Sirop :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Le sorgho sucré est transformé pour faire du sirop, similaire à la mélasse."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Avantages pour la Santé"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sans Gluten :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Sûr pour ceux qui ont la maladie cœliaque ou une intolérance au gluten."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Santé Digestive :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Sa haute teneur en fibres soutient la santé digestive et la régularité."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Santé Cardiaque :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Peut aider à réduire le cholestérol et améliorer la santé cardiaque grâce à sa teneur en fibres et en antioxydants."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Contrôle du Sucre dans le Sang :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " A un indice glycémique bas, ce qui peut aider à gérer les niveaux de sucre dans le sang."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Impact Environnemental"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Durabilité :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Le sorgho nécessite moins d'eau et de produits chimiques par rapport à d'autres cultures, ce qui en fait une culture plus durable."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Amélioration du Sol :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Utilisé souvent dans la rotation des cultures pour améliorer la santé du sol et réduire les ravageurs."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Avantages du Sorgho"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Résistance à la Sécheresse :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Le sorgho prospère dans des conditions arides et semi-arides, nécessitant moins d'eau que de nombreuses autres cultures."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Valeur Nutritionnelle :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Riche en protéines, fibres, vitamines et minéraux, ce qui en fait une option nutritive tant pour les humains que pour le bétail."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sans Gluten :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Sûr pour les personnes atteintes de maladie cœliaque ou d'intolérance au gluten, élargissant les options alimentaires."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Polyvalence :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Peut être utilisé sous plusieurs formes : grains, sirop et aliment pour animaux. Adapté à diverses applications culinaires."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Durabilité :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Se développe bien dans des conditions de sol pauvre et nécessite moins d'intrants (comme des engrais et des pesticides) par rapport à d'autres grains."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Potentiel Économique :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Peut fournir des revenus aux agriculteurs dans des régions où d'autres cultures peuvent ne pas être viables, contribuant à la sécurité alimentaire."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Production de Biocarburants :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Peut être utilisé pour produire de l'éthanol, contribuant aux efforts d'énergie renouvelable."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Inconvénients du Sorgho"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Limitations Nutritionnelles :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Bien qu'il soit nutritif, le sorgho est faible en certains acides aminés essentiels (comme la lysine), ce qui le rend moins adapté comme source unique de protéines."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Exigences de Traitement :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Le grain de sorgho peut être difficile à digérer à moins qu'il ne soit traité (par exemple, moulu en farine ou cuit), ce qui peut limiter son utilisation culinaire immédiate."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Demande du Marché :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Connaissance et demande limitées dans certaines régions par rapport à d'autres céréales de base comme le riz et le blé, ce qui peut affecter sa commercialisation."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Vulnérabilité aux Ravageurs et Maladies :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Susceptible à des ravageurs et maladies spécifiques, ce qui peut impacter les rendements et la qualité."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Goût et Texture :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Certaines personnes peuvent trouver le goût et la texture du sorgho moins attrayants que d'autres grains plus courants."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Acceptation Culturelle :"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Dans certaines zones, le sorgho peut ne pas être un aliment traditionnel, ce qui peut affecter son acceptation et sa consommation."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Conclusion"
+        },
+        {
+            "contentType": "p",
+            "content": "Le sorgho est un grain polyvalent et résistant qui joue un rôle crucial dans la sécurité alimentaire mondiale, en particulier dans les zones sujettes à la sécheresse. Ses avantages nutritionnels et sa large gamme d'utilisations en font une culture importante tant pour les applications alimentaires qu'industrielles. À mesure que la demande de cultures durables et résistantes à la sécheresse augmente, il est probable que le sorgho gagne encore plus d'importance dans l'agriculture et les régimes alimentaires à travers le monde."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "corn",
+            "lang": "en",
+            "title": "Corn: Nutrition Facts and Health Benefits",
+            "description": "This article discusses the health benefits of corn, including its fiber, vitamins, minerals, and antioxidants.",
+            "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

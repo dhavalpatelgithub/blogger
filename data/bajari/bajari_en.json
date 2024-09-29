@@ -1,0 +1,298 @@
+{
+    "title": "The Essence of Bajari: An Informative Overview",
+    "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+    "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "The Essence of Bajari: An Informative Overview",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "Farmer, educator & CEO Pop Food Industry",
+                "updatedDate": "Feb. 8, 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "Bajari is a common name for pearl millet, also known as Pennisetum glaucum. It is a type of cereal grain grown extensively in arid and semi-arid regions, especially in India and Africa. Pearl millet is known for its resilience to drought and poor soil conditions, making it a staple in areas with challenging growing environments."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/JymNRVs/bajari.jpg",
+            "caption": "Digital art by Anonymous"
+        },
+        {
+            "contentType": "h2",
+            "content": "Nutritional Value of Bajari (Pearl Millet)"
+        }, {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Rich in Nutrients:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Bajari is high in fiber, protein, and essential minerals like magnesium, phosphorus, iron, and zinc."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "High in Energy:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " It's a good source of carbohydrates and offers sustained energy release due to its complex carbs."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Gluten-Free:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Bajari is naturally gluten-free, making it a suitable alternative for people with celiac disease or gluten intolerance."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Types of Bajari (Pearl Millet)"
+        }, {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "White Bajari:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " White seeds; mild, digestible flavor, Common in flatbreads (rotis) and porridges, Easier on digestion and widely used."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Yellow Bajari:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Yellow seeds; rich in beta-carotene, Similar to white bajari but more nutritious, High in antioxidants, good for eye health."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Gray Bajari:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Gray seeds; robust taste, Traditional roti in arid regions, Grows in dry, poor soil conditions."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Red Bajari:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Red-brown seeds; distinct flavor, Traditional stews, breads, Rich in antioxidants."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Hybrid Bajari:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Bred for high yield and disease resistance, Commercial farming, animal feed, Better productivity, drought-resistant."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Black Bajari:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Rare black seeds; unique taste, Traditional dishes in select regions, High in micronutrients and antioxidants."
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "contentType": "p",
+            "content": "Each type has its own benefits and is suited to different culinary and agricultural needs."
+        }, {
+            "contentType": "h2",
+            "content": "Advantages of Bajari (Pearl Millet)"
+        }, {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Drought-Resistant Crop:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Bajari thrives in dry and drought-prone regions, requiring less water compared to crops like rice and wheat, making it an environmentally sustainable crop."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Nutritional Benefits:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Bajari is a rich source of dietary fiber, which helps in maintaining digestive health and reducing the risk of constipation. It has a low glycemic index, meaning it causes a slower rise in blood sugar levels, making it suitable for people with diabetes. Helps in preventing anemia, especially for people with iron deficiencies. Bajari contains magnesium and potassium, which can help reduce blood pressure and lower the risk of heart diseases."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Gluten-Free:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Ideal for people with gluten intolerance or those following a gluten-free diet."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Weight Management:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " The high fiber content helps in maintaining satiety for longer periods, which can aid in weight management."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bone Health:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Bajari is rich in phosphorus and magnesium, which contribute to healthy bones."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Versatility:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " It can be used in various forms—flour (bajra flour), porridge, flatbreads (bajra roti), and more. It's a staple in many traditional Indian dishes."
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "contentType": "h2",
+            "content": "Disadvantages of Bajari (Pearl Millet)"
+        }, {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Anti-Nutritional Factors:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Pearl millet contains phytic acid, which can inhibit the absorption of certain minerals like iron and zinc. Consuming large amounts without proper preparation methods (like soaking or fermentation) may reduce nutrient absorption."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Goitrogenic Effects:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " When consumed in excess, bajari contains compounds that may interfere with thyroid function, particularly for people who are iodine deficient. However, this is usually only a concern with large, long-term consumption without a balanced diet."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Flatulence and Digestive Issues:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Some individuals may experience bloating or gas after consuming bajari due to its high fiber content. This is particularly common if it’s introduced suddenly into a diet or if not well-cooked."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Shelf Life:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Bajari flour tends to have a shorter shelf life compared to wheat or rice flour due to its higher oil content, which can lead to quicker rancidity if not stored properly."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Limited Use in Some Cuisines:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Unlike wheat or rice, bajari may not be as versatile for all types of cuisines. Some people may find it challenging to incorporate into their daily diet due to its distinctive taste and texture."
+                        }
+                    ]
+                }
+            ]
+        }, {
+            "contentType": "h2",
+            "content": "Conclusion"
+        },
+        {
+            "contentType": "p",
+            "content": "Bajari is a nutritious and eco-friendly grain that offers numerous health benefits, especially for people with gluten intolerance, diabetes, or those living in drought-prone areas. However, it’s essential to consume it as part of a balanced diet to avoid potential issues like mineral absorption interference or thyroid function disruption."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "hi",
+            "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
+            "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

@@ -1,0 +1,486 @@
+{
+    "title": "Sorghum: The King of Millets",
+    "description": "Sorghum is a versatile crop that can be used as a grain, forage, or sweet crop. It has many uses, including food for humans, animal feed, and ethanol production.",
+    "images": ["https://i.ibb.co/7K8XQtw/sorghum.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "Sorghum: The King of Millets",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "Farmer, educator & CEO Pop Food Industry",
+                "updatedDate": "Feb. 8, 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "Sorghum (Sorghum bicolor) is a cereal grain that is one of the most important staple foods in many parts of the world, particularly in Africa and Asia. It belongs to the grass family and is known for its resilience in dry climates."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/7K8XQtw/sorghum.jpg",
+            "caption": "Digital art by Anonymous"
+        },
+        {
+            "contentType": "h2",
+            "content": "Characteristics"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Types:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " There are several types of sorghum, including: Grain Sorghum, Sweet Sorghum and Forage Sorghum."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Appearance:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Sorghum plants can reach heights of 3 to 12 feet and have broad, flat leaves. The grain heads can vary in color, including white, yellow, red, and purple."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Climate:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " It thrives in hot and dry conditions, making it an excellent crop for arid regions. It is drought-resistant and can grow in poor soils where other crops may fail."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Different Types of Sorghum"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Grain Sorghum:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Grown primarily for its seeds, used for food and animal feed."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sweet Sorghum:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Grown for its stalks, which can be processed to produce syrup."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Forage Sorghum:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Used as animal fodder."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Nutritional Value"
+        },
+        {
+            "contentType": "p",
+            "content": "Sorghum is highly nutritious and offers several health benefits:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Carbohydrates:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " It is a good source of complex carbohydrates."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Protein:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contains essential amino acids, making it a good protein source for vegetarians."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Fiber:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " High in dietary fiber, which aids digestion."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Vitamins and Minerals:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Rich in B vitamins, magnesium, phosphorus, and iron."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Antioxidants:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contains phenolic compounds that may have health benefits."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Uses of Sorghum"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Food:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Commonly used to make porridge, bread, and pancakes. In some cultures, it is fermented to make beverages. Gluten-free, making it popular among those with gluten sensitivities."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Animal Feed:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " A significant source of fodder for livestock."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Industrial Uses:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " It used in the production of biofuels (ethanol) and it used in paper and building materials."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Syrup Production:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Sweet sorghum is processed to make syrup, similar to molasses."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Health Benefits"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Gluten-Free:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Safe for those with celiac disease or gluten intolerance."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Digestive Health:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " High fiber content supports digestive health and regularity."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Heart Health:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " May help lower cholesterol levels and improve heart health due to its fiber and antioxidant content."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Blood Sugar Control:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Has a low glycemic index, which can help manage blood sugar levels."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Environmental Impact"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sustainability:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Sorghum is considered an environmentally friendly crop due to its low water requirements and ability to grow in less-than-ideal soil conditions."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Crop Rotation:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Often used in crop rotation to improve soil health and reduce pests."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Advantages of Sorghum"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Drought Resistance:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Sorghum thrives in arid and semi-arid conditions, requiring less water than many other crops."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Nutritional Value:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " High in protein, fiber, vitamins, and minerals, making it a nutritious option for both humans and livestock."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Gluten-Free:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Safe for individuals with celiac disease or gluten intolerance, expanding dietary options."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Versatility:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Can be used in various forms: grains, syrup, and animal feed. Suitable for a range of culinary applications."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sustainability:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Grows well in poor soil conditions and requires fewer inputs (like fertilizers and pesticides) compared to other grains."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Economic Potential:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Can provide income for farmers in regions where other crops may not be viable, contributing to food security."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Biofuel Production:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Can be used to produce ethanol, contributing to renewable energy efforts."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Disadvantages of Sorghum"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Nutritional Limitations:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " While nutritious, sorghum is low in certain essential amino acids (like lysine), making it less suitable as a sole protein source."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Processing Requirements:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Sorghum grain can be tough to digest unless processed (e.g., ground into flour or cooked), which may limit its immediate culinary use."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Market Demand:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Limited awareness and demand in some regions compared to other staple grains like rice and wheat, which can affect its marketability."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Pest and Disease Vulnerability:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Susceptible to specific pests and diseases, which can impact yields and quality."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Taste and Texture:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Some people may find the flavor and texture of sorghum less appealing than more common grains."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Cultural Acceptance:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " In some areas, sorghum may not be a traditional food, which can affect its acceptance and consumption."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Conclusion"
+        },
+        {
+            "contentType": "p",
+            "content": "Sorghum is a versatile and resilient grain that plays a crucial role in global food security, particularly in areas prone to drought. Its nutritional benefits and wide range of uses make it an important crop for both food and industrial applications. As the demand for sustainable and drought-resistant crops grows, sorghum is likely to gain even more significance in agriculture and diets worldwide."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "corn",
+            "lang": "en",
+            "title": "Corn: Nutrition Facts and Health Benefits",
+            "description": "This article discusses the health benefits of corn, including its fiber, vitamins, minerals, and antioxidants.",
+            "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

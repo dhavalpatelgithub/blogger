@@ -1,0 +1,384 @@
+{
+    "title": "Maíz: Datos Nutricionales y Beneficios para la Salud",
+    "description": "Este artículo discute los beneficios para la salud del maíz, incluyendo su fibra, vitaminas, minerales y antioxidantes.",
+    "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "Maíz: Datos Nutricionales y Beneficios para la Salud",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "Agricultor, educador y CEO de Pop Food Industry",
+                "updatedDate": "8 de febrero de 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "El maíz, también conocido como maíz, es un grano cereal básico cultivado ampliamente en todo el mundo. Es uno de los cultivos agrícolas más importantes y juega un papel vital en la economía, el suministro de alimentos y la cultura de muchos países. Aquí hay un resumen del maíz, que abarca su historia, tipos, cultivo, valor nutricional, usos e impacto ambiental."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/Nst0fpH/corn.jpg",
+            "caption": "Arte digital por Anónimo"
+        },
+        {
+            "contentType": "h2",
+            "content": "Historia y Origen"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Domesticación:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El maíz fue domesticado por primera vez por los pueblos indígenas en el sur de México hace aproximadamente 9,000 años. Se desarrolló a partir de una hierba silvestre llamada teosinte."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Difusión:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " A lo largo de los siglos, se difundió por toda América, y tras la colonización europea, se introdujo en Europa y otras partes del mundo."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Importancia Cultural:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El maíz es integral para muchas culturas nativas americanas, apareciendo prominentemente en rituales, alimentos y artesanías tradicionales."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Tipos de Maíz"
+        },
+        {
+            "contentType": "p",
+            "content": "El maíz se puede categorizar en varias variedades según sus usos y características:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Maíz Dulce:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Consumido como vegetal, el maíz dulce tiene un mayor contenido de azúcar y se cosecha cuando está inmaduro. Se consume comúnmente fresco, enlatado o congelado."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Maíz de Grano:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " También conocido como maíz dentado, este tipo se cultiva principalmente para alimento animal, productos industriales y alimentos procesados. Tiene un mayor contenido de almidón."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Maíz Flint:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Reconocible por su dura cáscara exterior, el maíz flint se utiliza para harina de maíz y como alimento para ganado."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Palomitas de Maíz:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Un tipo especial de maíz que estalla al calentarse debido a su contenido de humedad y cáscara dura."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Maíz Azul y Rojo:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Estas variedades tienen pigmentos en sus granos y se utilizan para productos especiales, incluyendo tortillas y aperitivos."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Cultivo"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Condiciones de Crecimiento:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El maíz prospera en climas cálidos con suelos fértiles y bien drenados. Requiere pleno sol y abundante agua."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Siembra:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Generalmente se siembra en primavera, el maíz se suele sembrar en hileras. Las semillas se espacian para permitir una adecuada circulación de aire y absorción de nutrientes."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Polinización:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El maíz es polinizado por el viento. Las flores masculinas (mazos) liberan polen, que es transportado por el viento a las flores femeninas (mazorcas)."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Cosecha:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El maíz generalmente se cosecha a finales del verano a principios del otoño, cuando los granos están maduros y secos."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Valor Nutricional"
+        },
+        {
+            "contentType": "p",
+            "content": "El maíz es una rica fuente de carbohidratos y ofrece varios nutrientes:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Macronutrientes:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Alto en calorías, principalmente de carbohidratos, el maíz proporciona energía. Contiene algo de proteína, pero es bajo en grasa."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Vitaminas y Minerales:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El maíz es una buena fuente de vitaminas B (especialmente B6 y ácido fólico), vitamina C, magnesio y potasio. El maíz amarillo es rico en carotenoides, como luteína y zeaxantina, que son beneficiosos para la salud ocular."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Fibra:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El maíz es una buena fuente de fibra dietética, promoviendo la salud digestiva."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Usos del Maíz"
+        },
+        {
+            "contentType": "p",
+            "content": "El maíz tiene múltiples aplicaciones en diferentes industrias:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Productos Alimenticios:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Utilizado en tortillas, palomitas de maíz, harina de maíz, jarabe de maíz y otros alimentos procesados. También es un ingrediente clave en muchos aperitivos y cereales para el desayuno."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Alimento para Animales:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Una parte significativa del maíz de grano se utiliza como alimento para ganado."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Usos Industriales:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Se utiliza en la producción de biocombustibles, productos químicos y plásticos biodegradables. El almidón de maíz es un componente clave en muchos productos industriales."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Impacto Ambiental"
+        },
+        {
+            "contentType": "p",
+            "content": "El cultivo de maíz tiene un impacto ambiental significativo, que incluye:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Uso de Recursos:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Requiere grandes cantidades de agua y fertilizantes, lo que puede afectar los recursos hídricos locales y la biodiversidad."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Erosión del Suelo:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La siembra intensiva puede conducir a la erosión del suelo y degradación del hábitat."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Uso de Pesticidas:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El uso de pesticidas y herbicidas puede dañar a los organismos no objetivo y provocar contaminación en los ecosistemas circundantes."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Conclusión"
+        },
+        {
+            "contentType": "p",
+            "content": "El maíz es un cultivo esencial que ofrece numerosos beneficios nutricionales y usos en diversas industrias. Sin embargo, es importante considerar su impacto ambiental y buscar prácticas sostenibles para su cultivo."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

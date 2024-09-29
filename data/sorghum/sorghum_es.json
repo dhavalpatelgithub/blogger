@@ -1,0 +1,486 @@
+{
+    "title": "Sorgo: El Rey de los Míllets",
+    "description": "El sorgo es un cultivo versátil que puede utilizarse como grano, forraje o cultivo dulce. Tiene muchos usos, incluyendo alimento para humanos, alimento para animales y producción de etanol.",
+    "images": ["https://i.ibb.co/7K8XQtw/sorghum.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "Sorgo: El Rey de los Míllets",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "Agricultor, educador y CEO de Pop Food Industry",
+                "updatedDate": "8 de febrero de 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "El sorgo (Sorghum bicolor) es un grano cereal que es uno de los alimentos básicos más importantes en muchas partes del mundo, especialmente en África y Asia. Pertenece a la familia de las gramíneas y es conocido por su resistencia en climas secos."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/7K8XQtw/sorghum.jpg",
+            "caption": "Arte digital por Anónimo"
+        },
+        {
+            "contentType": "h2",
+            "content": "Características"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Tipos:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Hay varios tipos de sorgo, incluyendo: Sorgo Grano, Sorgo Dulce y Sorgo Forrajero."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Apariencia:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Las plantas de sorgo pueden alcanzar alturas de 3 a 12 pies y tienen hojas amplias y planas. Las cabezas de grano pueden variar en color, incluyendo blanco, amarillo, rojo y púrpura."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Clima:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Se desarrolla en condiciones cálidas y secas, lo que lo convierte en un excelente cultivo para regiones áridas. Es resistente a la sequía y puede crecer en suelos pobres donde otros cultivos pueden fallar."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Diferentes Tipos de Sorgo"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sorgo Grano:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Cultivado principalmente por sus semillas, utilizadas para alimento y forraje."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sorgo Dulce:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Cultivado por sus tallos, que pueden ser procesados para producir jarabe."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sorgo Forrajero:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Utilizado como forraje para animales."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Valor Nutricional"
+        },
+        {
+            "contentType": "p",
+            "content": "El sorgo es altamente nutritivo y ofrece varios beneficios para la salud:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Carbohidratos:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Es una buena fuente de carbohidratos complejos."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Proteínas:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contiene aminoácidos esenciales, lo que lo convierte en una buena fuente de proteínas para vegetarianos."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Fibra:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Alto en fibra dietética, lo que ayuda a la digestión."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Vitaminas y Minerales:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Rico en vitaminas B, magnesio, fósforo y hierro."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Antioxidantes:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Contiene compuestos fenólicos que pueden tener beneficios para la salud."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Usos del Sorgo"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Alimento:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Comúnmente utilizado para hacer gachas, pan y panqueques. En algunas culturas, se fermenta para hacer bebidas. Sin gluten, lo que lo hace popular entre aquellos con sensibilidad al gluten."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Alimento para Animales:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Una fuente significativa de forraje para el ganado."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Usos Industriales:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Se utiliza en la producción de biocombustibles (etanol) y en la fabricación de papel y materiales de construcción."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Producción de Jarabe:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El sorgo dulce se procesa para hacer jarabe, similar a la melaza."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Beneficios para la Salud"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sin Gluten:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Seguro para aquellos con enfermedad celíaca o intolerancia al gluten."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Salud Digestiva:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Su alto contenido de fibra apoya la salud digestiva y la regularidad."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Salud del Corazón:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Puede ayudar a reducir los niveles de colesterol y mejorar la salud del corazón debido a su contenido de fibra y antioxidantes."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Control de Azúcar en Sangre:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Tiene un índice glucémico bajo, lo que puede ayudar a manejar los niveles de azúcar en sangre."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Impacto Ambiental"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sostenibilidad:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Se considera un cultivo ecológico debido a sus bajos requerimientos de agua y su capacidad para crecer en condiciones de suelo no ideales."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Rotación de Cultivos:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Se utiliza a menudo en la rotación de cultivos para mejorar la salud del suelo y reducir plagas."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Ventajas del Sorgo"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Resistencia a la Sequía:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El sorgo prospera en condiciones áridas y semiáridas, requiriendo menos agua que muchos otros cultivos."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Valor Nutricional:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Alto en proteínas, fibra, vitaminas y minerales, lo que lo convierte en una opción nutritiva tanto para humanos como para ganado."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sin Gluten:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Seguro para personas con enfermedad celíaca o intolerancia al gluten, ampliando las opciones dietéticas."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Versatilidad:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Puede ser utilizado en varias formas: granos, jarabe y alimento para animales. Adecuado para una variedad de aplicaciones culinarias."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sostenibilidad:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Crece bien en condiciones de suelo pobre y requiere menos insumos (como fertilizantes y pesticidas) en comparación con otros granos."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Potencial Económico:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Puede proporcionar ingresos a los agricultores en regiones donde otros cultivos pueden no ser viables, contribuyendo a la seguridad alimentaria."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Producción de Biocombustibles:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Puede utilizarse para producir etanol, contribuyendo a los esfuerzos de energía renovable."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Desventajas del Sorgo"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Limitaciones Nutricionales:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Si bien es nutritivo, el sorgo es bajo en ciertos aminoácidos esenciales (como la lisina), lo que lo hace menos adecuado como única fuente de proteína."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Requisitos de Procesamiento:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " El grano de sorgo puede ser difícil de digerir a menos que se procese (por ejemplo, molido en harina o cocido), lo que puede limitar su uso culinario inmediato."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Demanda del Mercado:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Conciencia y demanda limitadas en algunas regiones en comparación con otros granos básicos como el arroz y el trigo, lo que puede afectar su comercialización."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Vulnerabilidad a Plagas y Enfermedades:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Susceptible a plagas y enfermedades específicas, lo que puede impactar los rendimientos y la calidad."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sabor y Textura:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " Algunas personas pueden encontrar el sabor y la textura del sorgo menos atractivos que otros granos más comunes."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Aceptación Cultural:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " En algunas áreas, el sorgo puede no ser un alimento tradicional, lo que puede afectar su aceptación y consumo."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Conclusión"
+        },
+        {
+            "contentType": "p",
+            "content": "El sorgo es un grano versátil y resistente que juega un papel crucial en la seguridad alimentaria global, especialmente en áreas propensas a la sequía. Sus beneficios nutricionales y su amplia gama de usos lo convierten en un cultivo importante tanto para aplicaciones alimentarias como industriales. A medida que la demanda de cultivos sostenibles y resistentes a la sequía crece, es probable que el sorgo gane aún más importancia en la agricultura y las dietas en todo el mundo."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "corn",
+            "lang": "en",
+            "title": "Corn: Nutrition Facts and Health Benefits",
+            "description": "This article discusses the health benefits of corn, including its fiber, vitamins, minerals, and antioxidants.",
+            "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

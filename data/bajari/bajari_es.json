@@ -1,0 +1,342 @@
+{
+    "title": "La Esencia de la Bajari: Una Visión Informativa",
+    "description": "La Bajari (mijo perla) es el tipo de mijo más ampliamente cultivado. Se ha cultivado en África y en el subcontinente indio desde tiempos prehistóricos.",
+    "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "La Esencia de la Bajari: Una Visión Informativa",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "Agricultor, educador y CEO de Pop Food Industry",
+                "updatedDate": "8 de febrero, 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "La Bajari es un nombre común para el mijo perla, también conocido como Pennisetum glaucum. Es un tipo de cereal que se cultiva extensamente en regiones áridas y semiáridas, especialmente en la India y África. El mijo perla es conocido por su resistencia a la sequía y a las condiciones de suelo pobre, lo que lo convierte en un alimento básico en áreas con entornos de cultivo difíciles."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/JymNRVs/bajari.jpg",
+            "caption": "Arte digital por Anónimo"
+        },
+        {
+            "contentType": "h2",
+            "content": "Valor Nutricional de la Bajari (Mijo Perla)"
+        }, 
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Rico en Nutrientes:"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari es alta en fibra, proteína y minerales esenciales como magnesio, fósforo, hierro y zinc."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Alto en Energía:"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " Es una buena fuente de carbohidratos y ofrece una liberación sostenida de energía debido a sus carbohidratos complejos."
+                        }
+                    ]
+                }, 
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Libre de Gluten:"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari es naturalmente libre de gluten, lo que la convierte en una alternativa adecuada para personas con enfermedad celíaca o intolerancia al gluten."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Tipos de Bajari (Mijo Perla)"
+        }, 
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Blanca:"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " Semillas blancas; sabor suave y fácil de digerir, común en panes planos (rotis) y gachas, más fácil de digerir y ampliamente utilizada."
+                        }
+                    ]
+                }, 
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Amarilla:"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " Semillas amarillas; ricas en beta-caroteno, similares a la bajari blanca pero más nutritivas, altas en antioxidantes, buenas para la salud ocular."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Gris:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Semillas grises; sabor robusto, roti tradicional en regiones áridas, crece en suelos secos y pobres."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Roja:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Semillas rojo-marrón; sabor distintivo, guisos y panes tradicionales, rica en antioxidantes."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Híbrida:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Criada para un alto rendimiento y resistencia a las enfermedades, usada en la agricultura comercial, alimentación animal, mayor productividad, resistente a la sequía."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Negra:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Semillas negras raras; sabor único, platos tradicionales en regiones selectas, alta en micronutrientes y antioxidantes."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "p",
+            "content": "Cada tipo tiene sus propios beneficios y es adecuado para diferentes necesidades culinarias y agrícolas."
+        },
+        {
+            "contentType": "h2",
+            "content": "Ventajas de la Bajari (Mijo Perla)"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Cultivo Resistente a la Sequía:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari prospera en regiones secas y propensas a la sequía, requiriendo menos agua en comparación con cultivos como el arroz y el trigo, lo que la convierte en un cultivo ambientalmente sostenible."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Beneficios Nutricionales:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari es una rica fuente de fibra dietética, que ayuda a mantener la salud digestiva y a reducir el riesgo de estreñimiento. Tiene un índice glucémico bajo, lo que significa que provoca un aumento más lento del nivel de azúcar en la sangre, por lo que es adecuada para personas con diabetes. Ayuda a prevenir la anemia, especialmente en personas con deficiencia de hierro. La Bajari contiene magnesio y potasio, que pueden ayudar a reducir la presión arterial y disminuir el riesgo de enfermedades cardíacas."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Libre de Gluten:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Ideal para personas con intolerancia al gluten o que sigan una dieta libre de gluten."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Control de Peso:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El alto contenido de fibra ayuda a mantener la saciedad por períodos más largos, lo que puede ayudar en el control de peso."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Salud Ósea:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari es rica en fósforo y magnesio, que contribuyen a tener huesos saludables."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Versatilidad:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Se puede usar en varias formas: harina (harina de mijo), gachas, panes planos (roti de mijo), y más. Es un alimento básico en muchos platos tradicionales indios."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Desventajas de la Bajari (Mijo Perla)"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Factores Antinutricionales:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " El mijo perla contiene ácido fítico, que puede inhibir la absorción de ciertos minerales como el hierro y el zinc. Consumir grandes cantidades sin métodos de preparación adecuados (como remojar o fermentar) puede reducir la absorción de nutrientes."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Efectos Bociogénicos:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Cuando se consume en exceso, la Bajari contiene compuestos que pueden interferir con la función tiroidea, particularmente en personas con deficiencia de yodo. Sin embargo, esto generalmente solo es una preocupación con un consumo grande y a largo plazo sin una dieta equilibrada."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Flatulencia y Problemas Digestivos:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Algunas personas pueden experimentar hinchazón o gases después de consumir Bajari debido a su alto contenido de fibra. Esto es particularmente común si se introduce de repente en la dieta o si no está bien cocida."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Vida Útil:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La harina de Bajari tiende a tener una vida útil más corta en comparación con la harina de trigo o de arroz debido a su mayor contenido de aceite, lo que puede llevar a un enranciamiento más rápido si no se almacena adecuadamente."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Uso Limitado en Algunas Cocinas:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " A diferencia del trigo o el arroz, la Bajari puede no ser tan versátil para todo tipo de cocinas. Algunas personas pueden encontrar difícil incorporarla en su dieta diaria debido a su sabor y textura distintivos."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Conclusión"
+        },
+        {
+            "contentType": "p",
+            "content": "La Bajari es un grano nutritivo y respetuoso con el medio ambiente que ofrece numerosos beneficios para la salud, especialmente para personas con intolerancia al gluten, diabetes o aquellas que viven en áreas propensas a la sequía. Sin embargo, es esencial consumirla como parte de una dieta equilibrada para evitar posibles problemas como la interferencia en la absorción de minerales o la disfunción tiroidea."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "hi",
+            "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
+            "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

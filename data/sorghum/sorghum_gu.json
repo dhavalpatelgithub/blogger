@@ -1,0 +1,466 @@
+{
+    "title": "જુવાર: અનાજ નો રાજા",
+    "description": "જુવાર એ એક વિવિધ ઉપયોગો માટેની પાક છે જે બીજ, ખોરાક અથવા ખાંડના પાક તરીકે ઉપયોગમાં લઈ શકાય છે. આમાં મનુષ્યો માટેનું ખોરાક, પશુઓ માટેનું ખોરાક અને ઇથેનોલનું ઉત્પાદન સહિત અનેક ઉપયોગો છે.",
+    "images": ["https://i.ibb.co/7K8XQtw/sorghum.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "જુવાર: અનાજ નો રાજા",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "જેસે લિયોસ",
+                "authorDesignation": "કિસાન, શિક્ષક અને પોપ ફૂડ ઇન્ડસ્ટ્રીનો CEO",
+                "updatedDate": "8 ફેબ્રુઆરી 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "જુવાર (Sorghum bicolor) એક અનાજ છે જે વિશ્વના અનેક વિસ્તારોમાં, ખાસ કરીને આફ્રિકા અને એશિયામાં, મહત્વપૂર્ણ ખોરાકમાંની એક છે. તે ઘાસના કુટુંબને અવલંબિત છે અને આફ્રિકાના ઠંડા વાતાવરણમાં ટકાઉપણું ધરાવે છે."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/7K8XQtw/sorghum.jpg",
+            "caption": "ડિજિટલ કલા દ્વારા અનામી"
+        },
+        {
+            "contentType": "h2",
+            "content": "લક્ષણો"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પ્રકાર:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " જુવારના ઘણા પ્રકારો છે, જેમ કે: જુવારનું બીજ, જુવારનું ખાંડ અને જુવારનું ચારો."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "દેખાવ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " જુવારના છોડ 3થી 12 ફૂટ ઉંચા થઈ શકે છે અને તે ચોળા અને પહોળા પાંદડા ધરાવે છે. બીજના કેન પાતળા રંગમાં હોઈ શકે છે, જેમ કે સફેદ, પીળો, લાલ અને નળીયું."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વાતાવરણ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " ગરમ અને સૂકી પરિસ્થિતિમાં વિકાસ કરે છે, જે તેને બણકાના પ્રદેશો માટે શ્રેષ્ઠ પાક બનાવે છે. તે દુષ્કાળને સહન કરે છે અને તેનાથી ઓછા ગુણવત્તાવાળા માટીમાં ઉગે છે જ્યાં અન્ય પાકો નિષ્ફળ થઈ શકે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "જુવારના વિવિધ પ્રકારો"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "જુવાર બીજ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " મુખ્યત્વે તેના બીજ માટે ઉગાડવામાં આવે છે, જે ખોરાક અને ચારે તરીકે ઉપયોગ થાય છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "જુવાર ખાંડ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " તેના ખૂણા માટે ઉગાડવામાં આવે છે, જે ખાંડ બનાવવા માટે પરિવર્તિત કરી શકાય છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "જુવાર ચારો:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " પશુઓ માટેનો ચારો તરીકે ઉપયોગમાં લેવાય છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "પોષણાત્મક મૂલ્ય"
+        },
+        {
+            "contentType": "p",
+            "content": "જુવાર ખૂબ જ પોષણયુક્ત છે અને તેમાં ઘણા આરોગ્ય લાભો છે:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "કાર્બોહાઇડ્રેટ્સ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " જટિલ કાર્બોહાઇડ્રેટ્સનો સારું સ્ત્રોત છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પ્રોટીન:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " આમાં અનિવાર્ય એમિનોએસિડ્સ છે, જે તે શાકાહારીઓ માટે પ્રોટીનનો સારું સ્ત્રોત બનાવે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ફાઇબર:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " આહાર ફાઇબરમાં સમૃદ્ધ છે, જે પાચનને મદદ કરે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વિટામિન્સ અને મિનરલ્સ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " વીટીમિન B, મગ્નેશિયમ, ફોસ્ફોર અને આયર્નમાં સમૃદ્ધ છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "એન્ટીઓક્સિડન્ટ્સ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " આમાં એવા ફિનોલિક સંયોજનો છે જે આરોગ્ય માટે લાભદાયક હોઈ શકે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "જુવારના ઉપયોગ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ખોરાક:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " પૂરણા, પાન અને પેનકેક બનાવવા માટે સામાન્ય રીતે ઉપયોગ કરવામાં આવે છે. કેટલાક સંસ્કૃતિઓમાં, આને રસાયણિક બનાવવામાં આવે છે. આ જૂટનું મુક્ત હોવાથી, આ લોકો માટે પ્રચલિત છે જેમને જૂટની સંવેદનશીલતા છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પશુઓના ખોરાક:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " પશુઓ માટે ચારોના મહત્વપૂર્ણ સ્ત્રોત."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ઔદ્યોગિક ઉપયોગ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " બાયોફ્યુલ (ઇથેનોલ)ના ઉત્પાદનમાં અને કાગળ અને બાંધકામ સામાનના ઉત્પાદન માટે ઉપયોગમાં લેવાય છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ખાંડ ઉત્પાદન:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " ખાંડના જુવારને ખાંડ બનાવવા માટે પરિવર્તિત કરવામાં આવે છે, જે મોલેસસની સમાન છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "આરોગ્યના ફાયદા"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "જૂટ મુક્ત:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " સિલિયાક રોગ અથવા જૂટની અદૃષ્ટતાવાળા લોકો માટે સુરક્ષિત."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પાચન આરોગ્ય:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " આહારમાં મોખરે રહેલા ફાઇબરનું ઉચ્ચ પ્રમાણ પાચન અને નિયમિતતા માટે લાભદાયક છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વજન નિયંત્રણ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " ઓછી કૅલોરી અને ઉચ્ચ ફાઇબર સામગ્રીના કારણે વજન ઘટાડવા માટે મદદરૂપ."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "હાર્ટ હેલ્થ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " આમાં હાર્ટ હેલ્થ માટે લાભદાયક સ્નાયુઓ અને વિટામિન્સ છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વિશ્વસનીય ઉર્જા સ્ત્રોત:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": " જુવાર, લંબાવુંનું અનુમાન કરી શકે છે અને ઊર્જાને વધારવા માટે મદદરૂપ છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "જુવારના ફાયદા"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "દુષ્કાળ માટેની પ્રતિરોધકતા:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "જુવાર દુષ્કાળ અને અર્ધ દુષ્કાળની પરિસ્થિતિઓમાં ઊજવવા માટે પ્રખ્યાત છે, જે તેને ઘણા અન્ય પાકો કરતાં ઓછા પાણીની જરૂરિયાત ધરાવે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પોષણાત્મક મૂલ્ય:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "પ્રોટીન, ફાઇબર, વિટામિન્સ અને મિનરલ્સમાં ધનાતમક, જે મનુષ્યો અને પશુઓ માટે પોષણયુક્ત વિકલ્પ બનાવે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ગ્લૂટન મુક્ત:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "સિલિયાક રોગ અથવા ગ્લૂટન અસહિષ્નુતાવાળાઓ માટે સલામત, ખોરાકની વિકલ્પોને વિસ્તાર કરે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વિવિધતા:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "બે તકોમાં વપરાઈ શકે છે: બીજ, સિરપ અને પશુઓ માટેનું ખોરાક. વિવિધ વાનગીઓ માટે યોગ્ય."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "સસ્ટેનેબિલિટી:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "ખરાબ મટિયાની સ્થિતિમાં સારી રીતે વિકાસ કરે છે અને અન્ય અનાજો કરતા ઓછા ઇનપુટની જરૂરિયાત ધરાવે છે (જેમ કે ખાતર અને પેસ્ટિસાઇડ્સ)."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "આર્થિક પોટેંશિયલ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "એ વિસ્તારોમાં ખેડૂતોએ આવક પ્રદાન કરી શકે છે જ્યાં અન્ય પાકો શક્ય ન હોઈ શકે છે, જે ખોરાકની સુરક્ષા માટે મદદરૂપ છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "બાયોફ્યુલ ઉત્પાદન:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "ઇથેનોલ ઉત્પન્ન કરવા માટે વપરાય છે, નવજીવન એનર્જીના પ્રયત્નોમાં સહાય કરે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "જુવારના નુકસાન"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પોષણના મર્યાદા:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "જ્યારે તે પોષણયુક્ત છે, ત્યારે જુવાર કેટલાક મહત્વપૂર્ણ એમિનો એસિડમાં (જેમ કે લાઈસિન) નીચું છે, જે તેને એક જ પ્રોટીન સ્ત્રોત તરીકે ઓછું યોગ્ય બનાવે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પ્રક્રિયા માટેની આવશ્યકતાઓ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "જુવારના અનાજને પચાવવા માટે મુશ્કેલ હોઈ શકે છે જો તે પ્રક્રિયા કરવામાં નહીં આવે (ઉદાહરણ તરીકે, જ્યૂસ અને રોટલ માટે પીસવું), જે તેને તરત જ વાનગીમાં વપરાશને મર્યાદિત કરી શકે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "બજારમાંની માંગ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "આપણા સમર્પણમાં અન્ય મૂળ અનાજો જેવી કે ચોખા અને ઘઉંના তুলનામાં અમુક વિસ્તારોમાં મર્યાદિત જ્ઞાન અને માંગ, જે તેના માર્કેટિંગને અસર કરી શકે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પરસ્પર ઉદ્ભવન અને રોગોનો શિકાર:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "વિશિષ્ટ પરાશ્રિતો અને રોગો સાથે સંવેદનશીલ, જે ઊર્જા અને ગુણવત્તાને અસર કરી શકે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "રુચિ અને ટેક્સચર:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "કેટલાક લોકો જુવારના સ્વાદ અને ટેક્સચરને અન્ય સામાન્ય અનાજોની સરખામણીમાં ઓછું આકર્ષક કહી શકે છે."
+                        }
+                    ]
+                }, {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "સાંસ્કૃતિક સ્વીકૃતિ:"
+                        }, {
+                            "contentType": "plainText",
+                            "content": "કેટલાક વિસ્તારોમાં, જુવાર પરંપરાગત આહાર ન હોઈ શકે છે, જેના કારણે તેનો સ્વીકૃતિ અને ખોરાકમાં ઉપયોગ متاثر થઈ શકે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "નિષ્કર્ષ"
+        },
+        {
+            "contentType": "p",
+            "content": "જુવાર એક વિવિધ અને ટકાઉ અનાજ છે જે વૈશ્વિક ખોરાકની સુરક્ષા માટે મહત્વપૂર્ણ ભૂમિકા ભજવે છે, ખાસ કરીને દુષ્કાળના સંવેદનશીલ વિસ્તારોમાં. તેના પોષણાત્મક લાભો અને વિવિધ ઉપયોગો તેને ખોરાક અને ઔદ્યોગિક ઉપયોગો માટે મહત્વપૂર્ણ બનાવે છે. જેમ જેમ ટકાઉ અને દુષ્કાળ સહનશીલ પાકોની માંગ વધી રહી છે, તેમ તેમ જુવાર કૃષિ અને વૈશ્વિક આહારના ક્ષેત્રમાં વધુ મહત્વ પ્રાપ્ત કરવા માટે તૈયાર છે."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "corn",
+            "lang": "en",
+            "title": "Corn: Nutrition Facts and Health Benefits",
+            "description": "This article discusses the health benefits of corn, including its fiber, vitamins, minerals, and antioxidants.",
+            "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

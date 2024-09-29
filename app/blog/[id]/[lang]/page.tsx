@@ -19,7 +19,7 @@ import { Props } from "@/app/model/common-model";
 import Link from "next/link";
 
 const getBlog = cache(async (id: string, lang: string) => {
-  const file = await fs.readFile(path.join(process.cwd(), `/data/${id}_${lang}.json`), 'utf8');
+  const file = await fs.readFile(path.join(process.cwd(), `/data/${id}/${id}_${lang}.json`), 'utf8');
   const data = JSON.parse(file);
   if (data) {
     return data;

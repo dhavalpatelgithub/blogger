@@ -1,0 +1,342 @@
+{
+    "title": "L'Essence de la Bajari : Un Aperçu Informatif",
+    "description": "La Bajari (millet perlé) est le type de millet le plus cultivé. Elle est cultivée en Afrique et sur le sous-continent indien depuis des temps préhistoriques.",
+    "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "L'Essence de la Bajari : Un Aperçu Informatif",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "Agriculteur, éducateur et PDG de Pop Food Industry",
+                "updatedDate": "8 février 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "La Bajari est un nom courant pour le millet perlé, également connu sous le nom de Pennisetum glaucum. C'est un type de céréale qui est largement cultivé dans les régions arides et semi-arides, en particulier en Inde et en Afrique. Le millet perlé est reconnu pour sa résistance à la sécheresse et aux mauvaises conditions de sol, ce qui en fait une denrée de base dans les régions aux conditions de culture difficiles."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/JymNRVs/bajari.jpg",
+            "caption": "Art numérique par un anonyme"
+        },
+        {
+            "contentType": "h2",
+            "content": "Valeur Nutritionnelle de la Bajari (Millet Perlé)"
+        }, 
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Riche en Nutriments :"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari est riche en fibres, protéines et minéraux essentiels comme le magnésium, le phosphore, le fer et le zinc."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Riche en Énergie :"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " C'est une bonne source de glucides et elle offre une libération d'énergie prolongée grâce à ses glucides complexes."
+                        }
+                    ]
+                }, 
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sans Gluten :"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari est naturellement sans gluten, ce qui en fait une alternative appropriée pour les personnes souffrant de la maladie cœliaque ou d'une intolérance au gluten."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Types de Bajari (Millet Perlé)"
+        }, 
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Blanche :"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " Graines blanches; goût doux et facile à digérer, couramment utilisée dans les pains plats (rotis) et les bouillies, plus facile à digérer et largement utilisée."
+                        }
+                    ]
+                }, 
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Jaune :"
+                        }, 
+                        {
+                            "contentType": "plainText",
+                            "content": " Graines jaunes; riches en bêta-carotène, similaires à la Bajari blanche mais plus nutritives, riches en antioxydants, bonnes pour la santé des yeux."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Grise :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Graines grises; goût robuste, utilisée traditionnellement pour les rotis dans les régions arides, pousse dans des sols secs et pauvres."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Rouge :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Graines rouge-brun; saveur distincte, utilisée dans les ragoûts et pains traditionnels, riche en antioxydants."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Hybride :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Sélectionnée pour un rendement élevé et une résistance aux maladies, utilisée dans l'agriculture commerciale, alimentation animale, meilleure productivité, résistante à la sécheresse."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bajari Noire :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Graines noires rares; goût unique, utilisée dans des plats traditionnels dans certaines régions, riche en micronutriments et antioxydants."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "p",
+            "content": "Chaque type a ses propres avantages et est adapté à différentes nécessités culinaires et agricoles."
+        },
+        {
+            "contentType": "h2",
+            "content": "Avantages de la Bajari (Millet Perlé)"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Culture Résistante à la Sécheresse :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari prospère dans les régions sèches et sujettes à la sécheresse, nécessitant moins d'eau comparé à des cultures comme le riz et le blé, ce qui en fait une culture durable pour l'environnement."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Bénéfices Nutritionnels :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari est une source riche en fibres alimentaires, ce qui aide à maintenir la santé digestive et à réduire le risque de constipation. Elle a un faible indice glycémique, ce qui signifie qu'elle provoque une montée plus lente du taux de sucre dans le sang, la rendant adaptée aux personnes atteintes de diabète. Elle aide à prévenir l'anémie, notamment chez les personnes souffrant de carences en fer. La Bajari contient du magnésium et du potassium, qui peuvent aider à réduire la pression artérielle et à diminuer le risque de maladies cardiaques."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Sans Gluten :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Idéale pour les personnes intolérantes au gluten ou suivant un régime sans gluten."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Gestion du Poids :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La teneur élevée en fibres aide à maintenir la satiété pendant de plus longues périodes, ce qui peut aider à la gestion du poids."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Santé Osseuse :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La Bajari est riche en phosphore et en magnésium, ce qui contribue à la santé des os."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Polyvalence :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Elle peut être utilisée sous différentes formes : farine (farine de millet), bouillie, pains plats (roti de millet), et plus encore. Elle est un aliment de base dans de nombreux plats traditionnels indiens."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Inconvénients de la Bajari (Millet Perlé)"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Facteurs Antinutritionnels :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Le millet perlé contient de l'acide phytique, qui peut inhiber l'absorption de certains minéraux comme le fer et le zinc. Consommer de grandes quantités sans méthodes de préparation appropriées (comme le trempage ou la fermentation) peut réduire l'absorption des nutriments."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Effets Goitrogènes :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Lorsqu'elle est consommée en excès, la Bajari contient des composés qui peuvent interférer avec la fonction thyroïdienne, en particulier chez les personnes souffrant de carence en iode. Cependant, cela ne devient généralement un problème que lors d'une consommation excessive et prolongée sans régime équilibré."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Flatulences et Problèmes Digestifs :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Certaines personnes peuvent ressentir des ballonnements ou des gaz après avoir consommé de la Bajari en raison de sa forte teneur en fibres. Cela est particulièrement fréquent si elle est introduite soudainement dans le régime alimentaire ou si elle n'est pas bien cuite."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Durée de Conservation :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " La farine de Bajari a tendance à avoir une durée de conservation plus courte par rapport à la farine de blé ou de riz en raison de sa teneur plus élevée en huile, ce qui peut entraîner un rancissement plus rapide si elle n'est pas correctement stockée."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "Utilisation Limitée dans Certaines Cuisines :"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " Contrairement au blé ou au riz, la Bajari peut ne pas être aussi polyvalente pour tous les types de cuisines. Certaines personnes peuvent avoir du mal à l'intégrer dans leur régime alimentaire quotidien en raison de son goût et de sa texture distinctifs."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "Conclusion"
+        },
+        {
+            "contentType": "p",
+            "content": "La Bajari est une céréale nutritive et respectueuse de l'environnement qui offre de nombreux bienfaits pour la santé, notamment pour les personnes intolérantes au gluten, les diabétiques ou celles vivant dans des zones sujettes à la sécheresse. Cependant, il est essentiel de la consommer dans le cadre d'une alimentation équilibrée afin d'éviter des problèmes potentiels tels que l'interférence avec l'absorption des minéraux ou les troubles thyroïdiens."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "hi",
+            "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
+            "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

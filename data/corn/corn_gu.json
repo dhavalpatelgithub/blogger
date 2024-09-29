@@ -1,0 +1,550 @@
+{
+    "title": "મકાઈ: પોષણાત્મક તથ્યો અને આરોગ્ય ફાયદા",
+    "description": "આ લેખમાં મકાઈના આરોગ્ય ફાયદાઓ, જેમાં ફાઈબર, વિટામિન્સ, મિનરલ્સ અને એન્ટિઑક્સિડન્ટ્સનો સમાવેશ થાય છે, પર ચર્ચા કરવામાં આવી છે.",
+    "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "મકાઈ: પોષણાત્મક તથ્યો અને આરોગ્ય ફાયદા",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "જેસે લિયોઝ",
+                "authorDesignation": "ખેતી કરનાર, શિક્ષક અને પોપ ફૂડ ઇન્ડસ્ટ્રીના CEO",
+                "updatedDate": "8 ફેબ્રુઆરી 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "મકાઈ, જેને કૉર્ન તરીકે પણ ઓળખવામાં આવે છે, વિશ્વમાં વ્યાપક રીતે ખેતી કરવામાં આવતા એક મુખ્ય અનાજ છે. તે કૃષિની સૌથી મહત્વની પાકોમાંની એક છે અને ઘણા દેશોના અર્થતંત્ર, ખોરાકની પુરવઠા અને સંસ્કૃતિમાં મહત્વની ભૂમિકા ભજવે છે. મકાઈનો સંક્ષિપ્ત અવલોકન અહીં આપવામાં આવ્યું છે, જેમાં તેની ઐતિહાસિકતા, પ્રકારો, ખેતી, પોષણાત્મક મૂલ્ય, ઉપયોગ અને પર્યાવરણ પરના અસરોનો સમાવેશ થાય છે."
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/Nst0fpH/corn.jpg",
+            "caption": "ડિજિટલ કલા: અનામી"
+        },
+        {
+            "contentType": "h2",
+            "content": "ઈતિહાસ અને ઉત્પત્તિ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ડોમેસ્ટિકેશન:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈને પ્રથમવાર દક્ષિણ મેક્સિકોમાં આવેલી સ્થાનિક જનતાએ લગભગ 9000 વર્ષ પહેલાં પોષણ કર્યો હતો. તે એક વનસ્પતિની જાત denominada તેોઝિંટ પરથી વિકસિત કરવામાં આવ્યો."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વિશ્વમાં પ્રસંગી થવું:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " સદીઓમાં, મકાઈ અમેરિકાના અલગ-અલગ વિસ્તારોમાં ફેલાઈ ગયું, અને યુરોપીયન ઉપનિષ્કના પછી, તેને યુરોપ અને દુનિયાના અન્ય વિસ્તારોમાં રજૂ કરવામાં આવ્યો."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "સાંસ્કૃતિક મહત્વ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ અનેક અમેરિકન સંસ્કૃતિઓમાં જરૂરી છે, જે મકાઈને રીટીયલ્સ, ખોરાક અને પરંપરાગત કૃત્રિમકળામાં મહત્વપૂર્ણ રીતે દર્શાવે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "મકાઈના પ્રકારો"
+        },
+        {
+            "contentType": "p",
+            "content": "મકાઈને તેના ઉપયોગ અને વિશેષતાઓ અનુસાર અનેક પ્રકારે વર્ગીકૃત કરી શકાય છે:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "મીઠો મકાઈ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " શાકભાજી તરીકે ખાવા માટે, મીઠો મકાઈની ખાંડની માત્રા વધારે હોય છે અને તેને કચુંબરમાં ઉતારો કરવામાં આવે છે. તેને તાજું, ડૂબાવેલું અથવા જમવાની પદ્ધતિઓમાં ખાવામાં આવે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ગોડાની મકાઈ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " આ પ્રકારને ડેન્ટ મકાઈ તરીકે ઓળખવામાં આવે છે, જે મુખ્યત્વે પશુઓના ખોરાક, ઔદ્યોગિક ઉત્પાદનો અને પ્રોસેસ્ડ ખોરાક માટે વાવાઈ છે. તેમાં કાર્બોહાઈડ્રેટનું પ્રમાણ વધારે હોય છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ફ્લિન્ટ મકાઈ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " આના કઠોર બહારના છાલથી ઓળખવામાં આવે છે, ફ્લિન્ટ મકાઈનો ઉપયોગ મકાઈના આટા માટે અને પશુઓના ખોરાક તરીકે થાય છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પોપકોર્ન:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " આ પ્રકારનો વિશેષ મકાઈ છે જે ગરમીમાં ઇજાઓ થતી વખતે ફાટી જાય છે કારણ કે તેમાં પાણીની માત્રા અને કઠોર છાલ હોય છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "নীল અને રેડ મકાઈ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " આ જાતોમાં અનાજમાં રંગની પેટા હોય છે અને તેમાં વિશિષ્ટ ઉત્પાદનો બનાવવા માટે ઉપયોગ કરવામાં આવે છે, જેમાં ટોર્ટિલાસ અને નાસ્તા સામેલ છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "ખેતી"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વાવેતરના કાળજી:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ ઉষ્મા વર્તમાનમાં ફૂલો સાથે વધુ સારી રીતે વધે છે, સારું ઊંડી જમીન હોય છે અને વધારે પાણીની જરૂર પડે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વાવેતર:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " સામાન્ય રીતે વસંતમાં વાવવામાં આવે છે, મકાઈ સામાન્ય રીતે કતારોમાં વાવાય છે. બીજોને યોગ્ય હવા અને પોષણાત્મક ઉત્સાહ માટે છિદ્રિત કરવામાં આવે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "મલૂકતા:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈની પરાગમન હવામાન દ્વારા થાય છે. પુરૂષ ફૂલ (પાનિકલ્સ) પરાગ છોડી દે છે, જે હવા દ્વારા સ્ત્રીના ફૂલ (કાંદાની) તરફ સંક્રમિત થાય છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ફળ લેવું:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ સામાન્ય રીતે સમારથી શિયાળાની શરૂઆત સુધી ફળ લેવાનું હોય છે, જ્યારે અનાજ પૂર્ણ રીતે પકવા અને સુકા થાય છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "પોષણાત્મક મૂલ્ય"
+        },
+        {
+            "contentType": "p",
+            "content": "મકાઈ કાર્બોહાઇડ્રેટની સમૃદ્ધ શ્રોત છે અને વિવિધ પોષણકારી તત્વો પૂરા પાડે છે:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "મેક્રોન્યુટ્રિએન્ટ્સ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ ઉંચી કેલોરીઝથી સમૃદ્ધ છે, જે મુખ્યત્વે કાર્બોહાઇડ્રેટ્સમાંથી આવે છે અને ઉર્જા પૂરી પાડે છે. તેમાં થોડા પ્રોટીન છે પરંતુ તે તેલમાં ઓછું છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વિટામિન્સ અને મિનરલ્સ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ વિટામિન B, ખાસ કરીને વિટામિન B6 અને ફોલેટથી સમૃદ્ધ છે, તેમજ મિનરલ્સ જેમ કે મેંગનીઝ, ફોસ્ફોરસ અને સેલેનિયમ."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ફાઈબર:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ ફાઈબરમાં વધારે છે, જે જઠરાશયની આરોગ્ય અને પાચન માટે મહત્વપૂર્ણ છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "એન્ટિઑક્સિડન્ટ્સ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈમાં કેરેટેનોઇડ્સ જેવા એન્ટિઑક્સિડન્ટ્સનો સારો સ્ત્રોત હોય છે, જે શરીરમાં ઑક્સિડેટિવ તણાવને ઘટાડવામાં મદદ કરે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "મકાઈના ઉપયોગ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ખોરાક:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ પકવાનમાં અને પોષણકારી મીઠાઈઓમાં ખૂબ જ લોકપ્રિય છે, મીઠા મકાઈના કાંદાને શાકભાજી તરીકે અને મકાઈના ખાંડના પ્રમાણ સાથે પકવવામાં આવે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પશુઓના ખોરાક:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈનો એક મહત્ત્વનો ભાગ ગાયના ખોરાકમાં ઉપયોગ થાય છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ઔદ્યોગિક ઉપયોગ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈથી ઇથનોલ (બાયોફ્યુઅલ), મકાઈના તેલ અને વિવિધ બાયો ડિગ્રેડેબલ પ્લાસ્ટિક્સ બનાવવામાં આવે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "મકાઈનો આટો:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈમાંથી લેવામાં આવેલા આટાને રસોઈમાં અને ખોરાકના પ્રોસેસિંગમાં ઘનતાવાળી ઘનતા તરીકે ઉપયોગ કરવામાં આવે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "સંસ્કૃતિમાં મકાઈ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ વિવિધ સંસ્કૃતિઓમાં સંસ્કૃતિક મહત્વ ધરાવે છે, જેમાં પરંપરાગત વાનગીઓ, ઉત્સવ અને હસ્તકલા શામેલ છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "પર્યાવરણીય અસર"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "સ્થાયિતાના મુદ્દાઓ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈની ખેતી જમીનની કાટ, ખનિજોના ખૂણાનો ખોટ અને ખાતરો અને કીડાના નાશકોથી પાણીના પ્રદૂષણમાં યોગદાન આપી શકે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "જૈવિક સંશોધિત ઓગણીઓ (જીએમઓ):"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " કેટલાક દેશોમાં ઉછેરાયેલ મકાઈનું મહત્વપૂર્ણ ટકા જૈવિક સંશોધિત છે, જે પેદાશોને કીડાના કાંડા અને ગરમીના સ્થાયિત માટે પ્રતિરોધક બનાવવામાં આવે છે, જે પર્યાવરણ અને ખોરાકની સુરક્ષા પર ચર્ચા ઊભી કરે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વાવેતરનું ફરી વળતું:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " જમીનની આરોગ્ય જાળવવા માટે, ખેડૂતો ઘણીવાર વાવેતરમાં ફેરફાર કરે છે, મકાઈને legumes અથવા અન્ય પાકો સાથે બદલાવીને જમીનના પોષણોને પુનઃસ્થાપિત કરે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "મકાઈના ફાયદા"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "ઉચ્ચ ઉપજ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ એ સૌથી ઉત્પાદક પાકોમાંનું એક છે, જે પ્રતિ એકર નોંધપાત્ર માત્રામાં ખોરાક પૂરું પાડે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "વિવિધતા:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " વિવિધ પ્રકારના ખોરાક, પશુઓના ખોરાક અને ઔદ્યોગિક ઉપયોગમાં ઉપયોગ થાય છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પોષણના લાભો:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મુખ્ય પોષણ અને ખોરાક ફાઈબર પૂરો પાડે છે, જે આરોગ્ય માટે ફાયદાકારક છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "આર્થિક મહત્વ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " ખેડૂતો અને અર્થતંત્રને ટેકો આપે છે; ખોરાકની સુરક્ષાનો એક અનિવાર્ય ભાગ."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "બાયોફ્યુઅલનું ઉત્પાદન:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ ઇથનોલનું મુખ્ય સ્ત્રોત છે, જે નવીન ઊર્જાના પ્રયાસોમાં યોગદાન કરે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "મકાઈના અવગણનાઓ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "પર્યાવરણ પર અસરો:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈની ભારે ખેતી જમીનની કાટ, પાણીના પ્રદૂષણ અને ખનિજના ખૂણાનો ખોટ તરફ દોરી શકે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "સ્વાસ્થ્યના મુદ્દાઓ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈના પ્રોસેસડ ઉત્પાદનો (જેમ કે ઉચ્ચ ફ્રુકટોઝ મકાઈ સિર્પ)ની વધારે ખોરાકનું સેવન આરોગ્યના મુદ્દાઓ સાથે જોડાયું છે, જેમાં ઓબેસિટી અને ડાયાબિટીસનો સમાવેશ થાય છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "મોનોકલ્ચરની જોખમો:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " મકાઈ પર વધારે આધાર રાખવાથી જૈવિક વિવિધતાનો ખોટ અને પાકોમાં કીડા અને બિમારીઓથી વધુ પ્રભાવિત થવાની સંભાવના વધી શકે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "જીએમઓ પર વિવાદો:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " જૈવિક સંશોધિત મકાઈ કેટલાક ગ્રાહકો અને પર્યાવરણવેદીઓ માટે નૈતિક અને સલામતીની ચિંતાઓ ઉઠાવે છે."
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "મકાઈના વૈશ્વિક બજારમાં અસ્થિરતા:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " વૈશ્વિક બજારમાં મકાઈના ભાવમાં થતી ઉતારચઢાવ ખેડૂતો અને ખોરાકના ભંડોળ પર પ્રભાવ પાડી શકે છે."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "સારાંશ"
+        },
+        {
+            "contentType": "p",
+            "content": "મકાઈના આદરણીય ઇતિહાસ, પોષણાત્મક ફાયદા અને વૈશ્વિક અર્થતંત્રમાં મહત્વના ભાગ છે. તેમ છતાં, તેની ખેતીના પર્યાવરણીય અને આરોગ્યને લગતા કેટલાક પડકારો છે. યોગ્ય ઉપાય અને પગલાં લેવામાં આવે ત્યારે, મકાઈ હંમેશા આરોગ્યપ્રદ અને પોષણમય ખોરાક સાથે માનવતાના અને ન્યાયિક સ્વાસ્થ્ય માટે એક મજબૂત આધાર બની શકે છે."
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}

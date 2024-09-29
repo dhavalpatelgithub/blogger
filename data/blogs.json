@@ -1,39 +1,79 @@
 [
     {
-        "id": "wheat_blog",
+        "id": "wheat",
         "lang": "en",
         "title": "Wheat: The Most Important Cereal Grain on the Planet",
         "description": "Wheat is a cereal grain that is a member of the grass family and is grown in temperate areas around the world",
         "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
     }, {
-        "id": "wheat_blog",
+        "id": "wheat",
         "lang": "gu",
         "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
         "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
         "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
     }, {
-        "id": "wheat_blog",
+        "id": "wheat",
         "lang": "hi",
         "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
         "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
         "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
     }, {
-        "id": "wheat_blog",
+        "id": "wheat",
         "lang": "fr",
         "title": "Blé : la céréale la plus importante de la planète",
         "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
         "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
     }, {
-        "id": "wheat_blog",
+        "id": "wheat",
         "lang": "es",
         "title": "Trigo: el cereal más importante del planeta",
         "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
         "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
     }, {
-        "id": "wheat_blog",
+        "id": "wheat",
         "lang": "cmn",
         "title": "小麦：地球上最重要的谷物",
         "description": "小麦是一种谷物，属于禾本科植物，生长于世界各地的温带地区",
         "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+    }, {
+        "id": "bajari",
+        "lang": "en",
+        "title": "The Essence of Bajari: An Informative Overview",
+        "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+        "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+    }, {
+        "id": "bajari",
+        "lang": "es",
+        "title": "La Esencia de la Bajari: Una Visión Informativa",
+        "description": "La Bajari (mijo perla) es el tipo de mijo más ampliamente cultivado. Se ha cultivado en África y en el subcontinente indio desde tiempos prehistóricos.",
+        "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+    },
+    {
+        "id": "bajari",
+        "lang": "fr",
+        "title": "L'Essence de la Bajari : Un Aperçu Informatif",
+        "description": "La Bajari (millet perlé) est le type de millet le plus cultivé. Elle est cultivée en Afrique et sur le sous-continent indien depuis des temps préhistoriques.",
+        "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+    },
+    {
+        "id": "bajari",
+        "lang": "gu",
+        "title": "બાજરીનું સાર: માહિતીપૂર્ણ આલેખન",
+        "description": "બાજરી (મણિલી મકાઇ) એ સૌથી વધુ ઉગાડવામાં આવતી એક પ્રકારની મકાઇ છે. તે પૂર્વ ઇતિહાસ સમયથી આફ્રિકા અને ભારતીય ઉપખંડમાં ઉગાડવામાં આવી રહી છે.",
+        "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+    },
+    {
+        "id": "bajari",
+        "lang": "hi",
+        "title": "बाजरी का सार: एक जानकारीपूर्ण अवलोकन",
+        "description": "बाजरी (मोती बाजरा) बाजरा का सबसे व्यापक रूप से उगाया जाने वाला प्रकार है। इसे प्रागैतिहासिक काल से अफ्रीका और भारतीय उपमहाद्वीप में उगाया जा रहा है।",
+        "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+    }, 
+    {
+        "id": "bajari",
+        "lang": "cmn",
+        "title": "珍珠粟的本质：信息概述",
+        "description": "珍珠粟（Bajari）是种植最广泛的一种粟类作物。自史前时代以来，它一直在非洲和印度次大陆种植。",
+        "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
     }
 ]

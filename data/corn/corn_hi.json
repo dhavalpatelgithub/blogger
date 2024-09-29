@@ -1,0 +1,542 @@
+{
+    "title": "मकई: पोषण तथ्य और स्वास्थ्य लाभ",
+    "description": "यह लेख मकई के स्वास्थ्य लाभों पर चर्चा करता है, जिसमें इसके फाइबर, विटामिन, खनिज और एंटीऑक्सिडेंट शामिल हैं।",
+    "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"],
+    "structure": [
+        {
+            "contentType": "header",
+            "content": "मकई: पोषण तथ्य और स्वास्थ्य लाभ",
+            "address": {
+                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorName": "Jese Leos",
+                "authorDesignation": "किसान, शिक्षाविद् & CEO पॉप फूड इंडस्ट्री",
+                "updatedDate": "8 फरवरी, 2022"
+            }
+        },
+        {
+            "contentType": "p",
+            "className": "lead",
+            "content": "मकई, जिसे मक्का भी कहा जाता है, एक प्रमुख अनाज है जो पूरे विश्व में उगाया जाता है। यह सबसे महत्वपूर्ण कृषि फसलों में से एक है और कई देशों की अर्थव्यवस्था, खाद्य आपूर्ति और संस्कृति में महत्वपूर्ण भूमिका निभाता है। यहाँ मकई का एक अवलोकन है, जिसमें इसके इतिहास, प्रकार, खेती, पोषण मूल्य, उपयोग और पर्यावरणीय प्रभाव शामिल हैं।"
+        },
+        {
+            "contentType": "figure",
+            "src": "https://i.ibb.co/Nst0fpH/corn.jpg",
+            "caption": "डिजिटल कला अनाम द्वारा"
+        },
+        {
+            "contentType": "h2",
+            "content": "इतिहास और उत्पत्ति"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पालन-पोषण:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई का पहले आदिवासी लोगों द्वारा दक्षिण मेक्सिको में लगभग 9,000 साल पहले पालन-पोषण किया गया था। इसे एक जंगली घास, जिसे टिओसिंटे कहा जाता है, से विकसित किया गया।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "विस्तार:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "सदियों में, यह पूरे अमेरिका में फैला, और यूरोपीय उपनिवेश के बाद, इसे यूरोप और अन्य हिस्सों में पेश किया गया।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "सांस्कृतिक महत्व:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई कई मूल अमेरिकी संस्कृतियों का अभिन्न हिस्सा है, जो अनुष्ठानों, खाद्य पदार्थों और पारंपरिक शिल्पों में प्रमुखता से दिखाई देता है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "मकई के प्रकार"
+        },
+        {
+            "contentType": "p",
+            "content": "मकई को इसके उपयोग और विशेषताओं के आधार पर कई श्रेणियों में विभाजित किया जा सकता है:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "मीठी मकई:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "सब्जी के रूप में खाई जाने वाली, मीठी मकई में शर्करा की मात्रा अधिक होती है और इसे अपरिपक्व अवस्था में काटा जाता है। इसका सेवन आमतौर पर ताजा, डिब्बाबंद या जमे हुए रूप में किया जाता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "फील्ड कॉर्न:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "जिसे डेंट कॉर्न भी कहा जाता है, यह प्रकार मुख्यतः पशु चारे, औद्योगिक उत्पादों और प्रोसेस्ड खाद्य पदार्थों के लिए उगाया जाता है। इसमें स्टार्च की मात्रा अधिक होती है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "फ्लिंट कॉर्न:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "इसके कठोर बाहरी आवरण के लिए पहचाना जाने वाला, फ्लिंट कॉर्न का उपयोग मकई के आटे और पशुओं के चारे के लिए किया जाता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पॉपकॉर्न:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "यह मकई का एक विशेष प्रकार है जो गर्म करने पर फुलता है, इसके नमी की मात्रा और कठोर बाहरी आवरण के कारण।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "नीला और लाल मकई:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "ये किस्में अपने दानों में रंगद्रव्यों के कारण पहचानी जाती हैं और इनका उपयोग विशेष उत्पादों, जैसे टॉर्टिलास और नाश्ते में किया जाता है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "खेती"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "उगाने की स्थितियाँ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई गर्म जलवायु में, अच्छी जल निकासी वाली, उपजाऊ मिट्टी में अच्छी तरह से बढ़ता है। इसे पूरा सूरज और बहुत पानी की आवश्यकता होती है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "बीज बोना:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "आमतौर पर वसंत में बोया जाता है, मकई को आमतौर पर पंक्तियों में बोया जाता है। बीजों को पर्याप्त वायु और पोषक तत्वों के अवशोषण की अनुमति देने के लिए एक दूसरे से दूरी पर रखा जाता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "परागण:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई हवा द्वारा परागित होता है। नर फूल (तस्सेल) पराग छोड़ते हैं, जो हवा द्वारा मादा फूलों (कान) तक पहुँचता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "फसल काटना:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई को आमतौर पर गर्मियों के अंत से शुरुआती गिरावट में काटा जाता है जब दाने पके और सूखे होते हैं।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "पोषण मूल्य"
+        },
+        {
+            "contentType": "p",
+            "content": "मकई कार्बोहाइड्रेट का एक समृद्ध स्रोत है और विभिन्न पोषक तत्व प्रदान करता है:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "मैक्रोन्यूट्रिएंट्स:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " कैलोरी में उच्च, मुख्यतः कार्बोहाइड्रेट से, मकई ऊर्जा प्रदान करता है। इसमें कुछ प्रोटीन होता है लेकिन वसा की मात्रा कम होती है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "विटामिन और खनिज:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई विटामिन B (विशेषकर B6 और फोलेट), विटामिन C, मैग्नीशियम और पोटैशियम का अच्छा स्रोत है। पीले मकई में कैरोटीनॉइड्स जैसे ल्यूटिन और ज़ियैक्सैंथिन की प्रचुरता होती है, जो आंखों के स्वास्थ्य के लिए फायदेमंद होते हैं।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "फाइबर:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई आहार फाइबर का अच्छा स्रोत है, जो पाचन स्वास्थ्य को बढ़ावा देता है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "मकई के उपयोग"
+        },
+        {
+            "contentType": "p",
+            "content": "मकई का विभिन्न उद्योगों में कई अनुप्रयोग हैं:"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "खाद्य उत्पाद:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " टॉर्टिलास, पॉपकॉर्न, मकई के आटे, मकई की चाशनी, और अन्य प्रोसेस्ड खाद्य पदार्थों में उपयोग किया जाता है। यह कई नाश्ते के खाद्य पदार्थों और नाश्ते के अनाज का एक प्रमुख घटक है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पशु चारा:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "फील्ड कॉर्न का एक बड़ा हिस्सा मवेशियों के चारे के रूप में उपयोग किया जाता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "औद्योगिक उपयोग:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई का उपयोग इथेनॉल (एक बायोफ्यूल), मकई के तेल, और विभिन्न बायोडिग्रेडेबल प्लास्टिक के उत्पादन के लिए किया जाता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "मकई का आटा:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई से निकाला गया, मकई का आटा खाना पकाने और खाद्य प्रसंस्करण में मोटा करने वाले एजेंट के रूप में उपयोग किया जाता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "संस्कृति में मकई:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई विभिन्न समाजों में सांस्कृतिक महत्व रखता है, जो अक्सर पारंपरिक व्यंजनों, समारोहों और शिल्प में उपयोग होता है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "पर्यावरणीय प्रभाव"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "सततता के मुद्दे:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई की खेती मिट्टी के कटाव, पोषक तत्वों की कमी, और उर्वरकों और कीटनाशकों के कारण जल प्रदूषण का कारण बन सकती है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "जेनेटिकली मॉडिफाइड ऑर्गेनिज्म (जीएमओ):"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "कुछ देशों में उगाई जाने वाली मकई का एक महत्वपूर्ण प्रतिशत ऐसे गुणों के लिए आनुवंशिक रूप से संशोधित होता है, जैसे कीट प्रतिरोध और खरपतवारनाशक सहिष्णुता, जो पर्यावरणीय प्रभाव और खाद्य सुरक्षा के बारे में बहस को जन्म देता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "फसल चक्र:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मिट्टी की सेहत बनाए रखने के लिए, किसान अक्सर फसल चक्र का अभ्यास करते हैं, जिसमें मक्का को फसलों या अन्य फसलों के साथ बदलकर मिट्टी के पोषक तत्वों को फिर से भरना शामिल है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "मकई के लाभ"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "उच्च उपज:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई एक उच्च उपज वाली फसल है, जो प्रति एकड़ पर्याप्त मात्रा में भोजन प्रदान करती है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "विविधता:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "यह विभिन्न खाद्य उत्पादों, पशु चारे, और औद्योगिक अनुप्रयोगों में उपयोग होता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पोषण संबंधी लाभ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "यह आवश्यक पोषक तत्वों और आहार फाइबर प्रदान करता है, जो एक स्वस्थ आहार में योगदान करता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "आर्थिक महत्व:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "यह किसानों और अर्थव्यवस्था का समर्थन करता है; खाद्य सुरक्षा का एक महत्वपूर्ण घटक है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "बायोफ्यूल उत्पादन:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई इथेनॉल का एक प्रमुख स्रोत है, जो नवीकरणीय ऊर्जा प्रयासों में योगदान करता है।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "मकई के नुकसान"
+        },
+        {
+            "contentType": "ol",
+            "list": [
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "पर्यावरणीय प्रभाव:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "गहन मकई की खेती मिट्टी के कटाव, जल प्रदूषण, और पोषक तत्वों की कमी का कारण बन सकती है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "स्वास्थ्य संबंधी चिंताएँ:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "प्रोसेस्ड मकई उत्पादों (जैसे उच्च-फ्रुक्टोज मकई सिरप) का उच्च सेवन स्वास्थ्य समस्याओं से जुड़ा है, जिसमें मोटापा और मधुमेह शामिल हैं।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "मोनोकल्चर जोखिम:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई पर निर्भरता जैव विविधता के नुकसान का कारण बन सकती है और फसलों को कीटों और बीमारियों के प्रति अधिक संवेदनशील बना सकती है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "जीएमओ विवाद:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": " आनुवंशिक रूप से संशोधित मकई कुछ उपभोक्ताओं और पर्यावरणवादियों के लिए नैतिक और सुरक्षा संबंधी चिंताएँ उठाता है।"
+                        }
+                    ]
+                },
+                {
+                    "structure": [
+                        {
+                            "contentType": "strong",
+                            "content": "जल का उपयोग:"
+                        },
+                        {
+                            "contentType": "plainText",
+                            "content": "मकई को महत्वपूर्ण मात्रा में पानी की आवश्यकता होती है, जो स्थानीय जल संसाधनों पर दबाव डाल सकता है, विशेषकर शुष्क क्षेत्रों में।"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "contentType": "h2",
+            "content": "निष्कर्ष"
+        },
+        {
+            "contentType": "p",
+            "content": "मकई एक बहुपरकारी और आवश्यक फसल है जो वैश्विक कृषि, पोषण और अर्थव्यवस्था में महत्वपूर्ण भूमिका निभाता है। इसके विविध अनुप्रयोग, खाद्य और पशु चारे से लेकर औद्योगिक उत्पादों तक, इसे आधुनिक जीवन का एक महत्वपूर्ण घटक बनाते हैं। जैसे-जैसे दुनिया खाद्य सुरक्षा और पर्यावरणीय स्थिरता से संबंधित चुनौतियों का सामना कर रही है, मकई एक महत्वपूर्ण फसल बनी रहेगी, जिसके लिए जिम्मेदार कृषि प्रथाओं और नवाचार की आवश्यकता है।"
+        }
+    ],
+    "relateArticles": [
+        {
+            "id": "wheat",
+            "lang": "gu",
+            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
+            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "bajari",
+            "lang": "en",
+            "title": "The Essence of Bajari: An Informative Overview",
+            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "fr",
+            "title": "Blé : la céréale la plus importante de la planète",
+            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }, {
+            "id": "wheat",
+            "lang": "es",
+            "title": "Trigo: el cereal más importante del planeta",
+            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+        }
+    ]
+}
