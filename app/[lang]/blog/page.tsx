@@ -1,6 +1,4 @@
 import Image from "next/image";
-import { promises as fs } from 'fs';
-import path from "path";
 import Link from "next/link";
 import { getBlogs } from "@/app/api/api";
 import { Props } from "@/app/model/common-model";

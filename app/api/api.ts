@@ -14,6 +14,7 @@ export const getBlogs = async (lang: string | null = 'en') => {
       }
       return null;
     } catch (e) {
+      console.log(e);
       notFound();
     }  
 };
@@ -27,6 +28,7 @@ export const getBlog = cache(async (lang: string, id: string) => {
     }
     return null;
   } catch (e) {
+    console.log(e);
     notFound();
   }   
 });

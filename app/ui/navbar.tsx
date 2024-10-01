@@ -49,10 +49,10 @@ export default function Navbar() {
         lang = LangStorage.getLang();
     }
 
-    const selectLanguage = (lang: string) => {
+    const selectLanguage = (language: string) => {
          showLanguageMenu();
-         LangStorage.setLang(lang);
-         lang;
+         LangStorage.setLang(language);
+         lang = language;
     }
 
     let menuToggleSvg;

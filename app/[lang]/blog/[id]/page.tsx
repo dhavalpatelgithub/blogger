@@ -1,7 +1,5 @@
 import { Metadata } from "next";
 import Image from "next/image";
-import { promises as fs } from 'fs';
-import { cache } from "react";
 import Header from "@/app/ui/blog/header";
 import P from "@/app/ui/blog/p";
 import Figure from "@/app/ui/blog/figure";
@@ -14,7 +12,6 @@ import Blockquote from "@/app/ui/blog/blockquote";
 import Table from "@/app/ui/blog/table";
 import Pre from "@/app/ui/blog/pre";
 import H2 from "@/app/ui/blog/h2";
-import path from "path";
 import { Props } from "@/app/model/common-model";
 import Link from "next/link";
 import { getBlog } from "@/app/api/api";
