@@ -7,10 +7,10 @@
             "contentType": "header",
             "content": "小麦：地球上最重要的谷物",
             "address": {
-                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
-                "authorName": "Jese Leos",
-                "authorDesignation": "Farmer, educator & CEO Pop Food Industry",
-                "updatedDate": "Feb. 8, 2022"
+                "authorPicture": "https://i.ibb.co/qJL7dMd/blog-author.jpg",
+                "authorName": "达瓦尔·帕特尔",
+                "authorDesignation": "软件工程师、网页设计师和农民的儿子",
+                "updatedDate": "2024 年 9 月 26 日"
             }
         },
         {
@@ -262,29 +262,40 @@
     ],
     "relateArticles": [
         {
-            "id": "wheat",
-            "lang": "gu",
-            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
-            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "hi",
-            "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
-            "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "fr",
-            "title": "Blé : la céréale la plus importante de la planète",
-            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "es",
-            "title": "Trigo: el cereal más importante del planeta",
-            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+            "id": "bajari",
+            "lang": "cmn",
+            "title": "珍珠粟的本质：信息概述",
+            "description": "珍珠粟（Bajari）是种植最广泛的一种粟类作物。自史前时代以来，它一直在非洲和印度次大陆种植。",
+            "images": [
+                "https://i.ibb.co/JymNRVs/bajari.jpg"
+            ]
+        },
+        {
+            "id": "corn",
+            "lang": "cmn",
+            "title": "玉米：营养成分和健康益处",
+            "description": "本文讨论了玉米的健康益处，包括其纤维、维生素、矿物质和抗氧化剂。",
+            "images": [
+                "https://i.ibb.co/Nst0fpH/corn.jpg"
+            ]
+        },
+        {
+            "id": "sorghum",
+            "lang": "cmn",
+            "title": "高粱：谷物之王",
+            "description": "高粱是一种多用途作物，可以用作谷物、食品或糖料作物。它用于人类食物、动物饲料和乙醇的生产。",
+            "images": [
+                "https://i.ibb.co/7K8XQtw/sorghum.jpg"
+            ]
+        },
+        {
+            "id": "ragi",
+            "lang": "cmn",
+            "title": "小米（指尖小米）：营养丰富的谷物",
+            "description": "本文讨论了小米的健康益处，包括其纤维、维生素、矿物质和抗氧化剂。",
+            "images": [
+                "https://i.ibb.co/YpjYdPq/ragi.webp"
+            ]
         }
     ]
 }

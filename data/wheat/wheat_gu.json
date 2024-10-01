@@ -7,10 +7,10 @@
             "contentType": "header",
             "content": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
             "address": {
-                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
-                "authorName": "Jese Leos",
-                "authorDesignation": "Farmer, educator & CEO Pop Food Industry",
-                "updatedDate": "Feb. 8, 2022"
+                "authorPicture": "https://i.ibb.co/qJL7dMd/blog-author.jpg",
+                "authorName": "ધવલ પટેલ",
+                "authorDesignation": "સોફ્ટવેર એન્જિનિયર, વેબ ડિઝાઇનર અને ખેડૂતનો પુત્ર",
+                "updatedDate": "26 સપ્ટેમ્બર, 2024"
             }
         },
         {
@@ -262,29 +262,40 @@
     ],
     "relateArticles": [
         {
-            "id": "wheat",
+            "id": "bajari",
             "lang": "gu",
-            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
-            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "hi",
-            "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
-            "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "fr",
-            "title": "Blé : la céréale la plus importante de la planète",
-            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "es",
-            "title": "Trigo: el cereal más importante del planeta",
-            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+            "title": "બાજરીનું સાર: માહિતીપૂર્ણ આલેખન",
+            "description": "બાજરી (મણિલી મકાઇ) એ સૌથી વધુ ઉગાડવામાં આવતી એક પ્રકારની મકાઇ છે. તે પૂર્વ ઇતિહાસ સમયથી આફ્રિકા અને ભારતીય ઉપખંડમાં ઉગાડવામાં આવી રહી છે.",
+            "images": [
+                "https://i.ibb.co/JymNRVs/bajari.jpg"
+            ]
+        },
+        {
+            "id": "corn",
+            "lang": "gu",
+            "title": "મકાઈ: પોષણાત્મક તથ્યો અને આરોગ્ય ફાયદા",
+            "description": "આ લેખમાં મકાઈના આરોગ્ય ફાયદાઓ, જેમાં ફાઈબર, વિટામિન્સ, મિનરલ્સ અને એન્ટિઑક્સિડન્ટ્સનો સમાવેશ થાય છે, પર ચર્ચા કરવામાં આવી છે.",
+            "images": [
+                "https://i.ibb.co/Nst0fpH/corn.jpg"
+            ]
+        },
+        {
+            "id": "sorghum",
+            "lang": "gu",
+            "title": "જુવાર: અનાજ નો રાજા",
+            "description": "જુવાર એ એક વિવિધ ઉપયોગો માટેની પાક છે જે બીજ, ખોરાક અથવા ખાંડના પાક તરીકે ઉપયોગમાં લઈ શકાય છે. આમાં મનુષ્યો માટેનું ખોરાક, પશુઓ માટેનું ખોરાક અને ઇથેનોલનું ઉત્પાદન સહિત અનેક ઉપયોગો છે.",
+            "images": [
+                "https://i.ibb.co/7K8XQtw/sorghum.jpg"
+            ]
+        },
+        {
+            "id": "ragi",
+            "lang": "gu",
+            "title": "રાગી (ફિંગર મિલેટ): પોષણકારક ધાન",
+            "description": "આ લેખમાં રાગીના આરોગ્ય લાભો વિશે ચર્ચા કરવામાં આવી છે, જેમાં તેના ફાઇબર, વિટામિન્સ, ખનિજો અને એન્ટી ઑક્સીડેન્ટ્સનો સમાવેશ થાય છે.",
+            "images": [
+                "https://i.ibb.co/YpjYdPq/ragi.webp"
+            ]
         }
     ]
 }

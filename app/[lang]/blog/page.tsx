@@ -2,18 +2,18 @@ import Image from "next/image";
 import { promises as fs } from 'fs';
 import path from "path";
 import Link from "next/link";
+import { getBlogs } from "@/app/api/api";
+import { Props } from "@/app/model/common-model";
+import { LangStorage } from "@/app/api/storage";
 
-const getBlogs = async () => {
-    const file = await fs.readFile(path.join(process.cwd(), `/data/blogs.json`), 'utf8');
-    const data = JSON.parse(file);
-    if (data) {
-      return data;
+export default async function Page({ params }: Props) {
+    let lang = 'en';
+    if (params?.lang) {
+        lang = params?.lang;
+    } else {
+        lang = LangStorage.getLang();
     }
-    return null;
-};
-
-export default async function Page() {
-    const blogs = await getBlogs();
+    const blogs = await getBlogs(lang);
     
     return (
         <>
@@ -21,7 +21,7 @@ export default async function Page() {
                 { blogs.map((blog: any) => {
                     return (
                         <article key={blog.title} className="max-w-xs">
-                            <Link href={`/blog/${blog.id}/${blog.lang}`}>
+                            <Link href={`/${blog.lang}/blog/${blog.id}`}>
                                 <Image
                                 width={500}
                                 height={500}
@@ -31,13 +31,13 @@ export default async function Page() {
                                 />
                             </Link>
                             <h2 className="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
-                                <Link href={`/blog/${blog.id}/${blog.lang}`}>{blog.title}</Link>
+                                <Link href={`/${blog.lang}/blog/${blog.id}`}>{blog.title}</Link>
                             </h2>
                             <p className="mb-4 text-gray-500 dark:text-white-400">
                                 { blog.description }
                             </p>
                             <Link
-                                href={`/blog/${blog.id}/${blog.lang}`}
+                                href={`/${blog.lang}/blog/${blog.id}`}
                                 className="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-white hover:no-underline"
                             >
                                 Read in 2 minutes

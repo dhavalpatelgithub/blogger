@@ -7,7 +7,7 @@
             "contentType": "header",
             "content": "Exemple de blog imbriqué",
             "address": {
-                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
+                "authorPicture": "https://i.ibb.co/qJL7dMd/blog-author.jpg",
                 "authorName": "Jesé Léos",
                 "authorDesignation": "Graphiste, éducateur et PDG Flowbite",
                 "updatedDate": "8 février 2022"

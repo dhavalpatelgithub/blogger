@@ -7,10 +7,10 @@
             "contentType": "header",
             "content": "मकई: पोषण तथ्य और स्वास्थ्य लाभ",
             "address": {
-                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
-                "authorName": "Jese Leos",
-                "authorDesignation": "किसान, शिक्षाविद् & CEO पॉप फूड इंडस्ट्री",
-                "updatedDate": "8 फरवरी, 2022"
+                "authorPicture": "https://i.ibb.co/qJL7dMd/blog-author.jpg",
+                "authorName": "धवल पटेल",
+                "authorDesignation": "सॉफ्टवेयर इंजीनियर, वेब डिजाइनर और किसान का बेटा",
+                "updatedDate": "27 सितंबर 2024"
             }
         },
         {
@@ -515,28 +515,39 @@
     "relateArticles": [
         {
             "id": "wheat",
-            "lang": "gu",
-            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
-            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
+            "lang": "hi",
+            "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
+            "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
+            "images": [
+                "https://i.ibb.co/8bvJRmw/wheat-blog.jpg"
+            ]
+        },
+        {
             "id": "bajari",
-            "lang": "en",
-            "title": "The Essence of Bajari: An Informative Overview",
-            "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
-            "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "fr",
-            "title": "Blé : la céréale la plus importante de la planète",
-            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "es",
-            "title": "Trigo: el cereal más importante del planeta",
-            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+            "lang": "hi",
+            "title": "बाजरी का सार: एक जानकारीपूर्ण अवलोकन",
+            "description": "बाजरी (मोती बाजरा) बाजरा का सबसे व्यापक रूप से उगाया जाने वाला प्रकार है। इसे प्रागैतिहासिक काल से अफ्रीका और भारतीय उपमहाद्वीप में उगाया जा रहा है।",
+            "images": [
+                "https://i.ibb.co/JymNRVs/bajari.jpg"
+            ]
+        },
+        {
+            "id": "sorghum",
+            "lang": "hi",
+            "title": "ज्वार: अनाज का राजा",
+            "description": "ज्वार एक बहुउपयोगी फसल है जिसका उपयोग बीज, खाद्य सामग्री या चीनी की फसल के रूप में किया जा सकता है। इसमें मनुष्यों के लिए भोजन, पशुओं के लिए चारा और इथेनॉल का उत्पादन शामिल है।",
+            "images": [
+                "https://i.ibb.co/7K8XQtw/sorghum.jpg"
+            ]
+        },
+        {
+            "id": "ragi",
+            "lang": "hi",
+            "title": "रागी (फिंगर मिलेट): पौष्टिक अनाज",
+            "description": "इस लेख में रागी के स्वास्थ्य लाभों पर चर्चा की गई है, जिसमें इसके फाइबर, विटामिन, खनिज और एंटीऑक्सीडेंट्स शामिल हैं।",
+            "images": [
+                "https://i.ibb.co/YpjYdPq/ragi.webp"
+            ]
         }
     ]
 }

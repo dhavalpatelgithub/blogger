@@ -1,0 +1,33 @@
+[
+    {
+        "id": "wheat",
+        "lang": "en",
+        "title": "Wheat: The Most Important Cereal Grain on the Planet",
+        "description": "Wheat is a cereal grain that is a member of the grass family and is grown in temperate areas around the world",
+        "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+    }, {
+        "id": "bajari",
+        "lang": "en",
+        "title": "The Essence of Bajari: An Informative Overview",
+        "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
+        "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+    }, {
+        "id": "corn",
+        "lang": "en",
+        "title": "Corn: Nutrition Facts and Health Benefits",
+        "description": "This article discusses the health benefits of corn, including its fiber, vitamins, minerals, and antioxidants.",
+        "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"]
+    }, {
+        "id": "sorghum",
+        "lang": "en",
+        "title": "Sorghum: The King of Millets",
+        "description": "Sorghum is a versatile crop that can be used as a grain, forage, or sweet crop. It has many uses, including food for humans, animal feed, and ethanol production.",
+        "images": ["https://i.ibb.co/7K8XQtw/sorghum.jpg"]
+    }, {
+        "id": "ragi",
+        "lang": "en",
+        "title": "Ragi (Finger Millet): The Nutritious Grain",
+        "description": "This article discusses the health benefits of corn, including its fiber, vitamins, minerals, and antioxidants.",
+        "images": ["https://i.ibb.co/YpjYdPq/ragi.webp"]
+    }
+]

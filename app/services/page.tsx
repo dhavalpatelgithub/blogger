@@ -21,7 +21,7 @@ export default function Page() {
         >
           <h1>Our Blog Services</h1>
           <p>
-            At [Your Blog Name], we offer specialized blog services designed to
+            At Blogger, we offer specialized blog services designed to
             enhance your global reach and improve user experience. Our{" "}
             <strong>multilingual blog setup</strong> ensures your content is
             accessible in multiple languages, making it easy to connect with
@@ -36,7 +36,7 @@ export default function Page() {
           </p>
 
           <p>
-            At [Your Blog Name], we are continuously evolving to meet the
+            At Blogger, we are continuously evolving to meet the
             ever-changing needs of our clients and the blogging world. We're
             committed to staying ahead of trends, constantly refining our
             services to ensure your blog is always at its best. Whether it's

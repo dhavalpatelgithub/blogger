@@ -7,10 +7,10 @@
             "contentType": "header",
             "content": "L'Essence de la Bajari : Un Aperçu Informatif",
             "address": {
-                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
-                "authorName": "Jese Leos",
-                "authorDesignation": "Agriculteur, éducateur et PDG de Pop Food Industry",
-                "updatedDate": "8 février 2022"
+                "authorPicture": "https://i.ibb.co/qJL7dMd/blog-author.jpg",
+                "authorName": "Dhaval Patel",
+                "authorDesignation": "Ingénieur logiciel, concepteur Web et fils d'agriculteur",
+                "updatedDate": "26 septembre 2024"
             }
         },
         {
@@ -315,28 +315,39 @@
     "relateArticles": [
         {
             "id": "wheat",
-            "lang": "gu",
-            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
-            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "hi",
-            "title": "गेहूं: ग्रह पर सबसे महत्वपूर्ण अनाज",
-            "description": "गेहूं एक अनाज है जो घास परिवार का सदस्य है और दुनिया भर के समशीतोष्ण क्षेत्रों में उगाया जाता है",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
             "lang": "fr",
             "title": "Blé : la céréale la plus importante de la planète",
             "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
-        }, {
-            "id": "wheat",
-            "lang": "es",
-            "title": "Trigo: el cereal más importante del planeta",
-            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+            "images": [
+                "https://i.ibb.co/8bvJRmw/wheat-blog.jpg"
+            ]
+        },
+        {
+            "id": "corn",
+            "lang": "fr",
+            "title": "Maïs : Faits Nutritionnels et Bénéfices pour la Santé",
+            "description": "Cet article discute des bienfaits du maïs pour la santé, y compris sa fibre, ses vitamines, ses minéraux et ses antioxydants.",
+            "images": [
+                "https://i.ibb.co/Nst0fpH/corn.jpg"
+            ]
+        },
+        {
+            "id": "sorghum",
+            "lang": "fr",
+            "title": "Sorgho : Le Roi des Millets",
+            "description": "Le sorgho est une culture polyvalente qui peut être utilisée comme grain, fourrage ou culture sucrière. Il a de nombreuses utilisations, y compris comme aliment pour les humains, aliment pour les animaux et production d'éthanol.",
+            "images": [
+                "https://i.ibb.co/7K8XQtw/sorghum.jpg"
+            ]
+        },
+        {
+            "id": "ragi",
+            "lang": "fr",
+            "title": "Ragi (Millet perle) : Le grain nutritif",
+            "description": "Cet article discute des bienfaits pour la santé du ragi, y compris ses fibres, vitamines, minéraux et antioxydants.",
+            "images": [
+                "https://i.ibb.co/YpjYdPq/ragi.webp"
+            ]
         }
     ]
 }

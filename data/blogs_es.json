@@ -1,0 +1,33 @@
+[
+    {
+        "id": "wheat",
+        "lang": "es",
+        "title": "Trigo: el cereal más importante del planeta",
+        "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
+        "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+    }, {
+        "id": "bajari",
+        "lang": "es",
+        "title": "La Esencia de la Bajari: Una Visión Informativa",
+        "description": "La Bajari (mijo perla) es el tipo de mijo más ampliamente cultivado. Se ha cultivado en África y en el subcontinente indio desde tiempos prehistóricos.",
+        "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
+    }, {
+        "id": "corn",
+        "lang": "es",
+        "title": "Maíz: Datos Nutricionales y Beneficios para la Salud",
+        "description": "Este artículo discute los beneficios para la salud del maíz, incluyendo su fibra, vitaminas, minerales y antioxidantes.",
+        "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"]
+    }, {
+        "id": "sorghum",
+        "lang": "es",
+        "title": "Sorgo: El Rey de los Míllets",
+        "description": "El sorgo es un cultivo versátil que puede utilizarse como grano, forraje o cultivo dulce. Tiene muchos usos, incluyendo alimento para humanos, alimento para animales y producción de etanol.",
+        "images": ["https://i.ibb.co/7K8XQtw/sorghum.jpg"]
+    }, {
+        "id": "ragi",
+        "lang": "es",
+        "title": "Ragi (Mijo de dedo): El grano nutritivo",
+        "description": "Este artículo discute los beneficios para la salud del ragi, incluidos su fibra, vitaminas, minerales y antioxidantes.",
+        "images": ["https://i.ibb.co/YpjYdPq/ragi.webp"]
+    }
+]

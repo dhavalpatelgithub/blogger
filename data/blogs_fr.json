@@ -1,0 +1,47 @@
+[
+    {
+        "id": "wheat",
+        "lang": "fr",
+        "title": "Blé : la céréale la plus importante de la planète",
+        "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
+        "images": [
+            "https://i.ibb.co/8bvJRmw/wheat-blog.jpg"
+        ]
+    },
+    {
+        "id": "bajari",
+        "lang": "fr",
+        "title": "L'Essence de la Bajari : Un Aperçu Informatif",
+        "description": "La Bajari (millet perlé) est le type de millet le plus cultivé. Elle est cultivée en Afrique et sur le sous-continent indien depuis des temps préhistoriques.",
+        "images": [
+            "https://i.ibb.co/JymNRVs/bajari.jpg"
+        ]
+    },
+    {
+        "id": "corn",
+        "lang": "fr",
+        "title": "Maïs : Faits Nutritionnels et Bénéfices pour la Santé",
+        "description": "Cet article discute des bienfaits du maïs pour la santé, y compris sa fibre, ses vitamines, ses minéraux et ses antioxydants.",
+        "images": [
+            "https://i.ibb.co/Nst0fpH/corn.jpg"
+        ]
+    },
+    {
+        "id": "sorghum",
+        "lang": "fr",
+        "title": "Sorgho : Le Roi des Millets",
+        "description": "Le sorgho est une culture polyvalente qui peut être utilisée comme grain, fourrage ou culture sucrière. Il a de nombreuses utilisations, y compris comme aliment pour les humains, aliment pour les animaux et production d'éthanol.",
+        "images": [
+            "https://i.ibb.co/7K8XQtw/sorghum.jpg"
+        ]
+    },
+    {
+        "id": "ragi",
+        "lang": "fr",
+        "title": "Ragi (Millet perle) : Le grain nutritif",
+        "description": "Cet article discute des bienfaits pour la santé du ragi, y compris ses fibres, vitamines, minéraux et antioxydants.",
+        "images": [
+            "https://i.ibb.co/YpjYdPq/ragi.webp"
+        ]
+    }
+]

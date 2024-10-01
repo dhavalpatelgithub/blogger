@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { useState } from 'react';
 import ThemeToggle from './theme-toggle';
 import { useParams, usePathname } from 'next/navigation';
+import { LangStorage } from '../api/storage';
 
 export default function Navbar() {
 
@@ -42,6 +43,18 @@ export default function Navbar() {
         setIsLangMenuVisible(!isLangMenuVisible);
     }
 
+    let lang = params.lang;
+
+    if (!lang) {
+        lang = LangStorage.getLang();
+    }
+
+    const selectLanguage = (lang: string) => {
+         showLanguageMenu();
+         LangStorage.setLang(lang);
+         lang;
+    }
+
     let menuToggleSvg;
     let langMenu;
     let langButtonWithMenu;
@@ -62,17 +75,22 @@ export default function Navbar() {
         </>
     }
 
-
-    if (blogId && isLangMenuVisible) {
+    if ((blogId || pathname.includes('/blog')) && isLangMenuVisible) {
         const list = []
 
         for (const language of languages) {
-            list.push(<li key={language.key}>
-                <Link href={`/blog/${blogId}/${language.key}`} className={`${pathname === "/" ? 'text-blue-700 dark:text-blue-500' : 'text-gray-900 dark:text-white'} block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700`}>{language.label}</Link>
-            </li>)
+            if (blogId) {
+                list.push(<li key={language.key}>
+                    <Link href={`/${language.key}/blog/${blogId}`} onClick={() => selectLanguage(language.key)} className={`${pathname === "/" ? 'text-blue-700 dark:text-blue-500' : 'text-gray-900 dark:text-white'} block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700`}>{language.label}</Link>
+                </li>)
+            } else {
+                list.push(<li key={language.key}>
+                    <Link href={`/${language.key}/blog`} onClick={() => selectLanguage(language.key)} className={`${pathname === "/" ? 'text-blue-700 dark:text-blue-500' : 'text-gray-900 dark:text-white'} block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700`}>{language.label}</Link>
+                </li>)
+            }
         }
         langMenu = <>
-            <div id="langDropdown" onClick={showLanguageMenu} className="lang-dropdown z-10 bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
+            <div id="langDropdown" className="lang-dropdown z-10 bg-white divide-y divide-gray-100 rounded-lg shadow w-44 dark:bg-gray-700">
                 <ul className="py-2 text-sm text-gray-700 dark:text-gray-200" aria-labelledby="dropdownDefaultButton">
                     { list }
                 </ul>
@@ -80,7 +98,7 @@ export default function Navbar() {
         </>
     }
 
-    if (blogId) {
+    if (blogId || pathname.includes('/blog')) {
         langButtonWithMenu = <><button id="dropdownDefaultButton" onClick={showLanguageMenu} data-dropdown-toggle="langDropdown" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" type="button">
             Language
             <svg className="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
@@ -90,7 +108,7 @@ export default function Navbar() {
         { langMenu }</>
     } else {
         langButtonWithMenu = <button id="dropdownDefaultButton" onClick={showLanguageMenu} data-dropdown-toggle="langDropdown" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center inline-flex items-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" type="button">
-            <Link href="/blog">Blogs</Link>
+            <Link href={`/${lang}/blog`}>Blogs</Link>
         </button>
     }
     
@@ -98,7 +116,7 @@ export default function Navbar() {
     return (
         <nav className="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600">
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-2">
-                <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
+                <Link href={`/${lang}/blog`} className="flex items-center space-x-3 rtl:space-x-reverse">
                     <Image
                         src="https://flowbite.com/docs/images/logo.svg"
                         height={32}
@@ -106,7 +124,7 @@ export default function Navbar() {
                         alt="Flowbite Logo"
                     />
                     <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Blogger</span>
-                </a>
+                </Link>
                 <div className="flex md:order-2 md:space-x-0 rtl:space-x-reverse">
                     <ThemeToggle />
                     {langButtonWithMenu}
@@ -120,7 +138,7 @@ export default function Navbar() {
                             <Link href="/" className={`${pathname === "/" ? 'text-blue-700 dark:text-blue-500' : 'text-gray-900 dark:text-white'} block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700`}>Home</Link>
                         </li>
                         <li key="blog">
-                            <Link href="/blog" className={`${pathname === "/blog" ? 'text-blue-700 dark:text-blue-500' : 'text-gray-900 dark:text-white'} block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500  dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700`}>Blogs</Link>
+                            <Link href={`/${lang}/blog`} className={`${pathname === `/${lang}/blog` ? 'text-blue-700 dark:text-blue-500' : 'text-gray-900 dark:text-white'} block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500  dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700`}>Blogs</Link>
                         </li>
                         <li key="service">
                             <Link href="/services" className={`${pathname === "/services" ? 'text-blue-700 dark:text-blue-500' : 'text-gray-900 dark:text-white'} block py-2 px-3 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-blue-700 md:p-0 md:dark:hover:text-blue-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700`}>Services</Link>

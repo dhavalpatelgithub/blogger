@@ -7,10 +7,10 @@
             "contentType": "header",
             "content": "Ragi (Finger Millet): The Nutritious Grain",
             "address": {
-                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
-                "authorName": "Jese Leos",
-                "authorDesignation": "Farmer, educator & CEO Pop Food Industry",
-                "updatedDate": "Feb. 8, 2022"
+                "authorPicture": "https://i.ibb.co/qJL7dMd/blog-author.jpg",
+                "authorName": "Dhaval Patel",
+                "authorDesignation": "Software Engineer, Web Designer & Son of Farmer",
+                "updatedDate": "September 28, 2024"
             }
         },
         {
@@ -399,9 +399,9 @@
     "relateArticles": [
         {
             "id": "wheat",
-            "lang": "gu",
-            "title": "ઘઉં: ગ્રહ પર સૌથી મહત્વપૂર્ણ અનાજ",
-            "description": "ઘઉં એક અનાજ છે જે ઘાસના કુટુંબનો સભ્ય છે અને સમગ્ર વિશ્વમાં સમશીતોષ્ણ વિસ્તારોમાં ઉગાડવામાં આવે છે",
+            "lang": "en",
+            "title": "Wheat: The Most Important Cereal Grain on the Planet",
+            "description": "Wheat is a cereal grain that is a member of the grass family and is grown in temperate areas around the world",
             "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
         }, {
             "id": "bajari",
@@ -410,17 +410,17 @@
             "description": "Bajari (Pearl millet) is the most widely grown type of millet. It has been grown in Africa and the Indian subcontinent since prehistoric times.",
             "images": ["https://i.ibb.co/JymNRVs/bajari.jpg"]
         }, {
-            "id": "wheat",
-            "lang": "fr",
-            "title": "Blé : la céréale la plus importante de la planète",
-            "description": "Le blé est une céréale qui fait partie de la famille des graminées et est cultivée dans les zones tempérées du monde entier.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+            "id": "corn",
+            "lang": "en",
+            "title": "Corn: Nutrition Facts and Health Benefits",
+            "description": "This article discusses the health benefits of corn, including its fiber, vitamins, minerals, and antioxidants.",
+            "images": ["https://i.ibb.co/Nst0fpH/corn.jpg"]
         }, {
-            "id": "wheat",
-            "lang": "es",
-            "title": "Trigo: el cereal más importante del planeta",
-            "description": "El trigo es un cereal que pertenece a la familia de las gramíneas y se cultiva en zonas templadas de todo el mundo.",
-            "images": ["https://i.ibb.co/8bvJRmw/wheat-blog.jpg"]
+            "id": "sorghum",
+            "lang": "en",
+            "title": "Sorghum: The King of Millets",
+            "description": "Sorghum is a versatile crop that can be used as a grain, forage, or sweet crop. It has many uses, including food for humans, animal feed, and ethanol production.",
+            "images": ["https://i.ibb.co/7K8XQtw/sorghum.jpg"]
         }
     ]
 }

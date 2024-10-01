@@ -17,16 +17,7 @@ import H2 from "@/app/ui/blog/h2";
 import path from "path";
 import { Props } from "@/app/model/common-model";
 import Link from "next/link";
-
-const getBlog = cache(async (id: string, lang: string) => {
-  const file = await fs.readFile(path.join(process.cwd(), `/data/${id}/${id}_${lang}.json`), 'utf8');
-  const data = JSON.parse(file);
-  if (data) {
-    return data;
-  }
-  return null;
-});
-
+import { getBlog } from "@/app/api/api";
 
 export async function generateMetadata(
   { params }: Props,
@@ -34,7 +25,7 @@ export async function generateMetadata(
 ): Promise<Metadata> {
   const id: string = params.id;
   const lang: string = params.lang ? params.lang : 'en';
-  const blog = await getBlog(id, lang);
+  const blog = await getBlog(lang, id);
  
   return {
     title: blog?.title ? blog?.title : '404 - Not Found',
@@ -76,7 +67,7 @@ export async function generateMetadata(
 export default async function Page({ params }: Props) {
   const id: string = params.id;
   const lang: string = params.lang ? params.lang : 'en';
-  const blog = await getBlog(id, lang);
+  const blog = await getBlog(lang, id);
 
   return (
     <>
@@ -513,7 +504,7 @@ export default async function Page({ params }: Props) {
             { blog.relateArticles.map(((article: any) => {
               return (
                 <article key={article.title} className="max-w-xs">
-                  <Link href={`/blog/${article.id}/${article.lang}`}>
+                  <Link href={`/${article.lang}/blog/${article.id}`}>
                     <Image
                       width={500}
                       height={500}
@@ -523,13 +514,13 @@ export default async function Page({ params }: Props) {
                     />
                   </Link>
                   <h2 className="mb-2 text-xl font-bold leading-tight text-gray-900 dark:text-white">
-                    <Link href={`/blog/${article.id}/${article.lang}`}>{article.title}</Link>
+                    <Link href={`/${article.lang}/blog/${article.id}`}>{article.title}</Link>
                   </h2>
                   <p className="mb-4 text-gray-500 dark:text-gray-400">
                     { article.description }
                   </p>
                   <Link
-                    href={`/blog/${article.id}/${article.lang}`}
+                    href={`/${article.lang}/blog/${article.id}`}
                     className="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 dark:text-primary-500 hover:no-underline"
                   >
                     Read in 2 minutes

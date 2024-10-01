@@ -7,8 +7,8 @@
             "contentType": "header",
             "content": "Nested Blog Example",
             "address": {
-                "authorPicture": "https://flowbite.com/docs/images/people/profile-picture-2.jpg",
-                "authorName": "Jese Leos",
+                "authorPicture": "https://i.ibb.co/qJL7dMd/blog-author.jpg",
+                "authorName": "Dhaval Patel",
                 "authorDesignation": "Graphic Designer, educator & CEO Flowbite",
                 "updatedDate": "Feb. 8, 2022"
             }

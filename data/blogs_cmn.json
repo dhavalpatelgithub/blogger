@@ -1,0 +1,47 @@
+[
+    {
+        "id": "wheat",
+        "lang": "cmn",
+        "title": "小麦：地球上最重要的谷物",
+        "description": "小麦是一种谷物，属于禾本科植物，生长于世界各地的温带地区",
+        "images": [
+            "https://i.ibb.co/8bvJRmw/wheat-blog.jpg"
+        ]
+    },
+    {
+        "id": "bajari",
+        "lang": "cmn",
+        "title": "珍珠粟的本质：信息概述",
+        "description": "珍珠粟（Bajari）是种植最广泛的一种粟类作物。自史前时代以来，它一直在非洲和印度次大陆种植。",
+        "images": [
+            "https://i.ibb.co/JymNRVs/bajari.jpg"
+        ]
+    },
+    {
+        "id": "corn",
+        "lang": "cmn",
+        "title": "玉米：营养成分和健康益处",
+        "description": "本文讨论了玉米的健康益处，包括其纤维、维生素、矿物质和抗氧化剂。",
+        "images": [
+            "https://i.ibb.co/Nst0fpH/corn.jpg"
+        ]
+    },
+    {
+        "id": "sorghum",
+        "lang": "cmn",
+        "title": "高粱：谷物之王",
+        "description": "高粱是一种多用途作物，可以用作谷物、食品或糖料作物。它用于人类食物、动物饲料和乙醇的生产。",
+        "images": [
+            "https://i.ibb.co/7K8XQtw/sorghum.jpg"
+        ]
+    },
+    {
+        "id": "ragi",
+        "lang": "cmn",
+        "title": "小米（指尖小米）：营养丰富的谷物",
+        "description": "本文讨论了小米的健康益处，包括其纤维、维生素、矿物质和抗氧化剂。",
+        "images": [
+            "https://i.ibb.co/YpjYdPq/ragi.webp"
+        ]
+    }
+]
